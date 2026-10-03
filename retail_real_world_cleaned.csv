@@ -1,0 +1,801 @@
+Order_ID,Order_Date,Category,Product,Quantity,Unit_Price,Discount,City,Sales_Channel,Payment_Method,Customer_Age,Rating,Revenue,Month
+RET00001,2026-07-08,Electronics,Wireless Earbuds,5,6739.83,0.0,Madurai,Online,UPI,64,4.7,33699.15,2026-07
+RET00002,2026-03-26,Electronics,Bluetooth Speaker,3,1698.37,0.1,Trichy,Online,Net Banking,59,3.7,4585.6,2026-03
+RET00003,2026-02-18,Sports,Football,3,2229.13,0.05,Salem,Store,Net Banking,45,3.2,6353.02,2026-02
+RET00004,2026-05-14,Clothing,T-Shirt,3,1250.75,0.05,Salem,Store,Credit Card,22,4.0,3564.64,2026-05
+RET00005,2026-08-07,Beauty,Lipstick,5,1183.72,0.1,Madurai,Online,Cash,33,3.5,5326.74,2026-08
+RET00006,2026-05-07,Sports,Yoga Mat,3,2404.95,0.15,Trichy,Online,UPI,65,4.4,6132.62,2026-05
+RET00007,2026-05-13,Home & Kitchen,Bedsheet,3,1654.02,0.1,Madurai,Online,Debit Card,34,4.2,4465.85,2026-05
+RET00008,2026-08-10,Home & Kitchen,Cookware Set,1,2172.99,0.0,Coimbatore,Online,Net Banking,19,3.9,2172.99,2026-08
+RET00009,2026-09-03,Electronics,Smart Watch,2,3857.41,0.05,Salem,Online,UPI,27,4.2,7329.08,2026-09
+RET00010,2026-08-09,Electronics,Bluetooth Speaker,5,7151.03,0.05,Chennai,Online,Credit Card,53,3.8,33967.39,2026-08
+RET00011,2026-07-04,Home & Kitchen,Mixer,5,4706.55,0.1,Tiruppur,Store,Credit Card,54,4.0,21179.48,2026-07
+RET00012,2026-01-11,Clothing,Jacket,1,522.8,0.0,Salem,Store,UPI,55,3.6,522.8,2026-01
+RET00013,2026-08-06,Electronics,Power Bank,3,7990.907499999999,0.15,Madurai,Online,Credit Card,21,3.5,20376.81,2026-08
+RET00014,2026-06-17,Clothing,Jeans,5,1138.77,0.1,Trichy,Store,Credit Card,61,5.0,5124.46,2026-06
+RET00015,2026-01-03,Electronics,Smart Watch,1,3136.67,0.15,Chennai,Online,UPI,37,3.9,2666.17,2026-01
+RET00016,2026-05-19,Clothing,Jeans,4,2188.57,0.15,Thanjavur,Online,Debit Card,23,4.0,7441.14,2026-05
+RET00017,2026-07-31,Electronics,Smart Watch,3,2667.9,0.0,Thanjavur,Online,UPI,50,2.9,8003.7,2026-07
+RET00018,2026-07-23,Electronics,Bluetooth Speaker,1,3958.01,0.0,Chennai,Online,UPI,56,4.7,3958.01,2026-07
+RET00019,2026-05-29,Electronics,Power Bank,2,6562.6,0.1,Salem,Online,UPI,58,4.7,11812.68,2026-05
+RET00020,2026-05-26,Sports,Cricket Bat,5,1861.38,0.2,Thanjavur,Online,UPI,48,3.5,7445.52,2026-05
+RET00021,2026-02-23,Electronics,Bluetooth Speaker,2,5810.5,0.0,Thanjavur,Online,UPI,49,5.0,11621.0,2026-02
+RET00022,2026-05-14,Clothing,Jacket,3,917.54,0.1,Chennai,Store,Net Banking,33,3.3,2477.36,2026-05
+RET00023,2026-06-13,Electronics,Bluetooth Speaker,5,1413.51,0.0,Thanjavur,Online,UPI,31,4.0,7067.55,2026-06
+RET00024,2026-09-09,Home & Kitchen,Mixer,2,766.4,0.05,Coimbatore,Store,UPI,25,3.0,1456.16,2026-09
+RET00025,2026-04-22,Beauty,Lipstick,4,809.42,0.0,Thanjavur,Online,Net Banking,43,3.6,3237.68,2026-04
+RET00026,2026-09-10,Beauty,Shampoo,2,833.53,0.05,Coimbatore,Store,Net Banking,60,4.0,1583.71,2026-09
+RET00027,2026-07-08,Sports,Cricket Bat,3,2377.49,0.15,Tiruppur,Online,Debit Card,49,2.4,6062.6,2026-07
+RET00028,2026-02-17,Electronics,Smart Watch,4,6408.91,0.15,Madurai,Online,UPI,26,4.7,21790.29,2026-02
+RET00029,2026-01-08,Clothing,Jeans,3,1729.74,0.1,Salem,Store,Credit Card,62,5.0,4670.3,2026-01
+RET00030,2026-02-17,Clothing,T-Shirt,3,2999.6,0.1,Chennai,Online,Credit Card,22,4.3,8098.92,2026-02
+RET00031,2026-07-10,Electronics,Bluetooth Speaker,4,7990.907499999999,0.1,Salem,Store,Credit Card,27,3.8,28767.27,2026-07
+RET00032,2026-01-16,Clothing,Jeans,2,1273.65,0.0,Coimbatore,Online,Credit Card,21,4.6,2547.3,2026-01
+RET00033,2026-02-28,Sports,Yoga Mat,4,1067.14,0.15,Madurai,Online,Debit Card,64,3.9,3628.28,2026-02
+RET00034,2026-04-10,Clothing,Kurti,2,1968.69,0.1,Chennai,Store,UPI,29,3.9,3543.64,2026-04
+RET00035,2026-08-18,Home & Kitchen,Mixer,3,2435.25,0.05,Chennai,Store,UPI,23,3.9,6940.46,2026-08
+RET00036,2026-06-25,Electronics,Smart Watch,2,7990.907499999999,0.05,Trichy,Store,Credit Card,45,4.5,15182.72,2026-06
+RET00037,2026-01-21,Sports,Football,5,2874.89,0.2,Chennai,Store,UPI,51,3.7,11499.56,2026-01
+RET00038,2026-05-08,Beauty,Lipstick,2,562.85,0.15,Chennai,Online,Credit Card,43,5.0,956.84,2026-05
+RET00039,2026-05-05,Sports,Cricket Bat,5,4539.47,0.05,Trichy,Store,Net Banking,54,4.2,21562.48,2026-05
+RET00040,2026-08-12,Home & Kitchen,Table Lamp,4,1713.78,0.1,Trichy,Store,UPI,61,4.4,6169.61,2026-08
+RET00041,2026-04-17,Home & Kitchen,Bedsheet,2,1470.25,0.05,Madurai,Store,Net Banking,43,3.8,2793.48,2026-04
+RET00042,2026-09-11,Beauty,Face Wash,4,394.45,0.1,Coimbatore,Store,Debit Card,62,4.2,1420.02,2026-09
+RET00043,2026-08-29,Electronics,Power Bank,1,5478.38,0.15,Salem,Store,UPI,44,4.0,4656.62,2026-08
+RET00044,2026-02-25,Clothing,Jacket,3,2428.24,0.1,Chennai,Store,Credit Card,31,3.5,6556.25,2026-02
+RET00045,2026-03-25,Electronics,Wireless Earbuds,3,3816.57,0.0,Madurai,Store,Credit Card,46,4.0,11449.71,2026-03
+RET00046,2026-01-14,Clothing,Jacket,1,2744.26,0.0,Madurai,Online,UPI,27,3.3,2744.26,2026-01
+RET00047,2026-07-20,Electronics,Power Bank,1,3860.39,0.1,Tiruppur,Store,UPI,38,3.5,3474.35,2026-07
+RET00048,2026-03-30,Electronics,Power Bank,4,5296.5,0.05,Chennai,Store,UPI,43,4.6,20126.7,2026-03
+RET00049,2026-07-24,Clothing,Jacket,5,1145.23,0.1,Coimbatore,Online,UPI,44,3.8,5153.54,2026-07
+RET00050,2026-04-20,Clothing,T-Shirt,5,2272.15,0.05,Thanjavur,Online,Debit Card,20,3.2,10792.71,2026-04
+RET00051,2026-09-05,Beauty,Lipstick,1,996.98,0.1,Chennai,Online,UPI,28,3.8,897.28,2026-09
+RET00052,2026-08-28,Sports,Football,2,4188.29,0.0,Tiruppur,Online,Credit Card,65,4.1,8376.58,2026-08
+RET00053,2026-05-01,Beauty,Face Wash,5,1082.99,0.1,Trichy,Online,Cash,32,3.8,4873.46,2026-05
+RET00054,2026-03-01,Clothing,Jacket,3,2277.47,0.1,Coimbatore,Online,UPI,42,4.9,6149.17,2026-03
+RET00055,2026-01-03,Electronics,Power Bank,4,2305.44,0.1,Coimbatore,Online,Net Banking,50,4.9,8299.58,2026-01
+RET00056,2026-05-01,Beauty,Sunscreen,5,1333.17,0.0,Thanjavur,Online,Credit Card,24,3.9,6665.85,2026-05
+RET00057,2026-04-19,Sports,Football,4,4583.78,0.1,Salem,Online,Debit Card,26,3.6,16501.61,2026-04
+RET00058,2026-07-28,Clothing,Jacket,5,2240.97,0.1,Thanjavur,Store,Debit Card,28,3.5,10084.36,2026-07
+RET00059,2026-03-22,Electronics,Smart Watch,2,2092.31,0.0,Salem,Online,Credit Card,44,4.5,4184.62,2026-03
+RET00060,2026-08-12,Sports,Yoga Mat,5,1162.68,0.2,Trichy,Online,Credit Card,55,3.2,4650.72,2026-08
+RET00061,2026-01-27,Home & Kitchen,Cookware Set,1,650.31,0.2,Thanjavur,Online,Credit Card,65,4.2,520.25,2026-01
+RET00062,2026-09-15,Sports,Cricket Bat,2,1120.9,0.0,Coimbatore,Online,Credit Card,30,3.6,2241.8,2026-09
+RET00063,2026-06-18,Beauty,Shampoo,4,631.35,0.1,Trichy,Online,UPI,30,3.5,2272.86,2026-06
+RET00064,2026-06-14,Clothing,T-Shirt,3,1063.34,0.05,Trichy,Online,UPI,58,2.9,3030.52,2026-06
+RET00065,2026-02-19,Electronics,Wireless Earbuds,3,7501.54,0.15,Trichy,Store,UPI,18,3.2,19128.93,2026-02
+RET00066,2026-04-28,Electronics,Smart Watch,5,5494.53,0.15,Chennai,Store,UPI,20,3.1,23351.75,2026-04
+RET00067,2026-02-13,Home & Kitchen,Table Lamp,3,1116.9,0.0,Salem,Store,UPI,51,3.2,3350.7,2026-02
+RET00068,2026-05-25,Electronics,Smart Watch,1,6432.46,0.1,Salem,Online,Cash,48,3.0,5789.21,2026-05
+RET00069,2026-03-12,Home & Kitchen,Cookware Set,3,1259.05,0.05,Tiruppur,Online,Net Banking,32,5.0,3588.29,2026-03
+RET00070,2026-06-20,Electronics,Wireless Earbuds,3,2851.34,0.0,Salem,Store,Credit Card,38,3.2,8554.02,2026-06
+RET00071,2026-07-24,Clothing,T-Shirt,2,583.08,0.05,Madurai,Store,UPI,52,3.5,1107.85,2026-07
+RET00072,2026-04-08,Sports,Cricket Bat,5,665.25,0.2,Chennai,Online,Credit Card,63,3.1,2661.0,2026-04
+RET00073,2026-08-30,Home & Kitchen,Cookware Set,3,4540.71,0.05,Coimbatore,Online,Credit Card,43,2.8,12941.02,2026-08
+RET00074,2026-03-11,Electronics,Power Bank,7,5529.24,0.15,Salem,Online,Cash,21,4.9,32898.98,2026-03
+RET00075,2026-01-20,Electronics,Power Bank,5,4509.29,0.05,Tiruppur,Online,Debit Card,53,4.4,21419.13,2026-01
+RET00076,2026-01-02,Electronics,Smart Watch,4,974.24,0.2,Thanjavur,Store,UPI,35,3.3,3117.57,2026-01
+RET00077,2026-04-26,Sports,Football,1,1549.14,0.0,Chennai,Store,UPI,51,4.0,1549.14,2026-04
+RET00078,2026-04-07,Beauty,Face Wash,5,959.76,0.15,Trichy,Store,UPI,25,3.5,4078.98,2026-04
+RET00079,2026-01-18,Clothing,Kurti,3,1848.95,0.0,Thanjavur,Online,Debit Card,32,4.0,5546.85,2026-01
+RET00080,2026-08-18,Beauty,Shampoo,2,1526.99,0.0,Madurai,Online,Debit Card,65,2.5,3053.98,2026-08
+RET00081,2026-06-17,Home & Kitchen,Bedsheet,5,4409.56,0.05,Thanjavur,Online,Credit Card,58,3.8,20945.41,2026-06
+RET00082,2026-06-27,Electronics,Bluetooth Speaker,4,1837.12,0.2,Coimbatore,Store,Credit Card,49,2.9,5878.78,2026-06
+RET00083,2026-08-04,Electronics,Wireless Earbuds,4,5848.81,0.0,Madurai,Online,Credit Card,34,4.2,23395.24,2026-08
+RET00084,2026-02-12,Home & Kitchen,Mixer,4,2411.31,0.05,Trichy,Online,UPI,62,3.6,9162.98,2026-02
+RET00085,2026-04-18,Home & Kitchen,Table Lamp,5,3047.23,0.05,Tiruppur,Online,Credit Card,55,4.6,14474.34,2026-04
+RET00086,2026-04-19,Electronics,Wireless Earbuds,3,6615.07,0.05,Chennai,Store,Credit Card,44,3.9,18852.95,2026-04
+RET00087,2026-02-06,Electronics,Wireless Earbuds,4,7097.5,0.1,Thanjavur,Store,Credit Card,38,4.0,25551.0,2026-02
+RET00088,2026-06-11,Beauty,Lipstick,5,1644.9,0.05,Salem,Store,UPI,57,3.7,7813.28,2026-06
+RET00089,2026-07-30,Clothing,Jeans,2,2710.17,0.1,Thanjavur,Online,Credit Card,39,3.4,4878.31,2026-07
+RET00090,2026-06-12,Electronics,Wireless Earbuds,2,6719.76,0.15,Thanjavur,Store,Debit Card,39,3.4,11423.59,2026-06
+RET00091,2026-03-12,Electronics,Smart Watch,5,3635.1,0.05,Chennai,Online,Debit Card,65,4.5,17266.72,2026-03
+RET00092,2026-06-04,Clothing,Kurti,4,841.43,0.2,Coimbatore,Store,Cash,52,4.9,2692.58,2026-06
+RET00093,2026-03-04,Clothing,Kurti,5,2519.74,0.0,Thanjavur,Store,UPI,21,4.8,12598.7,2026-03
+RET00094,2026-09-27,Electronics,Wireless Earbuds,2,4110.06,0.1,Thanjavur,Store,Cash,37,4.2,7398.11,2026-09
+RET00095,2026-05-30,Beauty,Shampoo,4,1449.23,0.0,Tiruppur,Online,UPI,41,4.5,5796.92,2026-05
+RET00096,2026-06-03,Beauty,Sunscreen,4,1088.19,0.1,Thanjavur,Store,Debit Card,49,3.4,3917.48,2026-06
+RET00097,2026-06-24,Electronics,Bluetooth Speaker,5,1904.48,0.1,Salem,Store,Credit Card,63,4.7,8570.16,2026-06
+RET00098,2026-03-15,Home & Kitchen,Mixer,4,3248.08,0.0,Trichy,Online,Credit Card,49,4.2,12992.32,2026-03
+RET00099,2026-01-23,Electronics,Smart Watch,3,5730.25,0.0,Salem,Store,Credit Card,20,3.4,17190.75,2026-01
+RET00100,2026-01-27,Home & Kitchen,Table Lamp,1,1787.13,0.0,Chennai,Online,Debit Card,18,3.1,1787.13,2026-01
+RET00101,2026-08-04,Beauty,Lipstick,4,1622.31,0.05,Trichy,Online,Credit Card,26,4.0,6164.78,2026-08
+RET00102,2026-08-01,Electronics,Bluetooth Speaker,2,1408.62,0.0,Chennai,Store,Debit Card,63,3.4,2817.24,2026-08
+RET00103,2026-02-13,Electronics,Wireless Earbuds,1,7990.907499999999,0.15,Coimbatore,Online,UPI,27,4.1,6792.27,2026-02
+RET00104,2026-03-23,Beauty,Face Wash,1,450.21,0.15,Madurai,Store,UPI,33,4.9,382.68,2026-03
+RET00105,2026-07-31,Sports,Yoga Mat,1,4717.5,0.0,Salem,Store,UPI,55,3.7,4717.5,2026-07
+RET00106,2026-02-07,Clothing,Jeans,1,2508.34,0.05,Trichy,Online,UPI,62,4.2,2382.92,2026-02
+RET00107,2026-01-08,Clothing,T-Shirt,4,2756.49,0.1,Tiruppur,Store,Credit Card,62,3.4,9923.36,2026-01
+RET00108,2026-09-28,Electronics,Wireless Earbuds,1,2867.95,0.2,Chennai,Store,Debit Card,60,3.7,2294.36,2026-09
+RET00109,2026-09-14,Clothing,Jeans,5,979.07,0.05,Trichy,Store,Credit Card,42,3.6,4650.58,2026-09
+RET00110,2026-05-04,Home & Kitchen,Table Lamp,2,884.38,0.15,Chennai,Store,UPI,38,3.6,1503.45,2026-05
+RET00111,2026-07-28,Electronics,Power Bank,3,6531.65,0.05,Salem,Store,UPI,44,4.3,18615.2,2026-07
+RET00112,2026-08-16,Sports,Football,3,2506.37,0.05,Chennai,Online,Debit Card,29,3.5,7143.15,2026-08
+RET00113,2026-05-25,Home & Kitchen,Mixer,2,4573.8,0.1,Trichy,Online,UPI,55,5.0,8232.84,2026-05
+RET00114,2026-03-21,Home & Kitchen,Cookware Set,5,3217.19,0.05,Trichy,Online,Credit Card,45,3.5,15281.65,2026-03
+RET00115,2026-03-18,Clothing,Kurti,4,1452.23,0.0,Coimbatore,Online,Credit Card,55,4.5,5808.92,2026-03
+RET00116,2026-05-27,Sports,Running Shoes,4,789.88,0.15,Tiruppur,Store,UPI,18,3.9,2685.59,2026-05
+RET00117,2026-06-30,Clothing,Kurti,2,2195.98,0.1,Madurai,Online,Debit Card,63,4.5,3952.76,2026-06
+RET00118,2026-05-11,Electronics,Wireless Earbuds,4,4421.76,0.0,Salem,Store,UPI,38,3.2,17687.04,2026-05
+RET00119,2026-09-29,Electronics,Power Bank,3,6711.2,0.0,Coimbatore,Online,UPI,41,4.5,20133.6,2026-09
+RET00120,2026-03-14,Electronics,Power Bank,4,2780.76,0.0,Trichy,Store,UPI,56,4.3,11123.04,2026-03
+RET00121,2026-09-23,Sports,Running Shoes,1,1759.06,0.0,Tiruppur,Store,UPI,48,3.7,1759.06,2026-09
+RET00122,2026-04-04,Clothing,T-Shirt,2,2498.83,0.0,Thanjavur,Online,Net Banking,27,4.3,4997.66,2026-04
+RET00123,2026-04-16,Sports,Running Shoes,3,3616.39,0.05,Coimbatore,Online,UPI,50,3.3,10306.71,2026-04
+RET00124,2026-02-10,Electronics,Bluetooth Speaker,1,3696.93,0.0,Tiruppur,Online,Net Banking,26,5.0,3696.93,2026-02
+RET00125,2026-06-25,Electronics,Bluetooth Speaker,2,6958.28,0.1,Madurai,Online,Debit Card,58,4.0,12524.9,2026-06
+RET00126,2026-09-17,Beauty,Shampoo,2,1577.63,0.1,Chennai,Online,UPI,34,3.6,2839.73,2026-09
+RET00127,2026-03-24,Home & Kitchen,Cookware Set,2,2964.31,0.15,Thanjavur,Online,UPI,49,4.1,5039.33,2026-03
+RET00128,2026-06-27,Sports,Football,2,2783.91,0.05,Thanjavur,Online,Debit Card,57,3.4,5289.43,2026-06
+RET00129,2026-03-13,Electronics,Power Bank,1,6995.75,0.0,Thanjavur,Online,UPI,49,3.5,6995.75,2026-03
+RET00130,2026-09-03,Home & Kitchen,Table Lamp,1,2262.3,0.0,Chennai,Store,UPI,20,4.0,2262.3,2026-09
+RET00131,2026-01-18,Home & Kitchen,Mixer,2,1461.2,0.1,Salem,Store,Debit Card,49,4.0,2630.16,2026-01
+RET00132,2026-05-20,Clothing,Jacket,1,1553.58,0.0,Trichy,Online,UPI,29,4.0,1553.58,2026-05
+RET00133,2026-05-15,Electronics,Wireless Earbuds,5,4599.92,0.05,Chennai,Online,Credit Card,57,4.3,21849.62,2026-05
+RET00134,2026-06-07,Electronics,Smart Watch,5,4337.17,0.1,Chennai,Online,Debit Card,56,4.8,19517.26,2026-06
+RET00135,2026-03-17,Home & Kitchen,Mixer,1,4642.67,0.1,Madurai,Online,UPI,30,3.5,4178.4,2026-03
+RET00136,2026-04-05,Clothing,Jeans,5,1200.6,0.05,Madurai,Online,Debit Card,40,4.5,5702.85,2026-04
+RET00137,2026-09-24,Clothing,Jacket,1,1711.97,0.0,Madurai,Online,UPI,53,5.0,1711.97,2026-09
+RET00138,2026-09-02,Home & Kitchen,Table Lamp,2,3083.45,0.0,Trichy,Online,UPI,29,3.6,6166.9,2026-09
+RET00139,2026-08-18,Clothing,T-Shirt,4,985.53,0.2,Madurai,Online,Credit Card,25,3.6,3153.7,2026-08
+RET00140,2026-01-18,Clothing,Jacket,1,2646.75,0.0,Thanjavur,Store,Cash,54,3.9,2646.75,2026-01
+RET00141,2026-02-02,Electronics,Bluetooth Speaker,5,4158.51,0.1,Trichy,Online,Cash,55,4.5,18713.3,2026-02
+RET00142,2026-08-27,Electronics,Smart Watch,4,6897.28,0.1,Tiruppur,Store,UPI,48,4.3,24830.21,2026-08
+RET00143,2026-01-26,Electronics,Wireless Earbuds,3,4509.09,0.05,Thanjavur,Store,Debit Card,32,4.4,12850.91,2026-01
+RET00144,2026-01-14,Clothing,Jeans,4,1952.92,0.1,Tiruppur,Online,Credit Card,37,4.4,7030.51,2026-01
+RET00145,2026-06-28,Electronics,Smart Watch,3,7990.907499999999,0.1,Tiruppur,Store,Credit Card,62,3.6,21575.45,2026-06
+RET00146,2026-07-15,Beauty,Sunscreen,2,1415.87,0.1,Thanjavur,Online,UPI,31,4.4,2548.57,2026-07
+RET00147,2026-02-24,Electronics,Wireless Earbuds,3,7990.907499999999,0.05,Chennai,Online,UPI,18,3.0,22774.09,2026-02
+RET00148,2026-04-23,Sports,Running Shoes,2,4034.75,0.1,Thanjavur,Online,UPI,51,3.8,7262.55,2026-04
+RET00149,2026-02-25,Clothing,Jeans,3,2400.07,0.1,Salem,Online,Debit Card,30,3.2,6480.19,2026-02
+RET00150,2026-06-19,Clothing,T-Shirt,4,931.98,0.2,Tiruppur,Store,Debit Card,61,3.1,2982.34,2026-06
+RET00151,2026-05-02,Beauty,Lipstick,4,943.75,0.1,Thanjavur,Online,UPI,55,4.4,3397.5,2026-05
+RET00152,2026-06-06,Beauty,Face Wash,5,548.27,0.1,Tiruppur,Online,UPI,52,4.3,2467.22,2026-06
+RET00153,2026-01-18,Beauty,Face Wash,3,526.0,0.05,Trichy,Online,Net Banking,60,4.2,1499.1,2026-01
+RET00154,2026-03-15,Beauty,Sunscreen,4,1673.55,0.1,Salem,Store,Credit Card,59,3.2,6024.78,2026-03
+RET00155,2026-05-27,Sports,Running Shoes,2,3781.89,0.2,Tiruppur,Online,Credit Card,58,3.7,6051.02,2026-05
+RET00156,2026-02-19,Clothing,T-Shirt,2,1004.72,0.05,Chennai,Store,Net Banking,45,4.4,1908.97,2026-02
+RET00157,2026-02-10,Home & Kitchen,Cookware Set,3,4663.99,0.1,Thanjavur,Online,Cash,65,4.7,12592.77,2026-02
+RET00158,2026-08-07,Sports,Running Shoes,1,4857.24,0.05,Tiruppur,Store,UPI,60,4.4,4614.38,2026-08
+RET00159,2026-07-08,Electronics,Smart Watch,3,7954.75,0.0,Tiruppur,Store,Credit Card,34,3.6,23864.25,2026-07
+RET00160,2026-01-27,Sports,Yoga Mat,4,4363.07,0.05,Trichy,Online,UPI,60,3.7,16579.67,2026-01
+RET00161,2026-06-30,Electronics,Bluetooth Speaker,4,7990.907499999999,0.1,Trichy,Store,UPI,43,3.6,28767.27,2026-06
+RET00162,2026-05-10,Electronics,Power Bank,4,1550.22,0.0,Salem,Store,UPI,33,5.0,6200.88,2026-05
+RET00163,2026-06-21,Electronics,Wireless Earbuds,3,2616.12,0.05,Trichy,Store,Debit Card,26,4.1,7455.94,2026-06
+RET00164,2026-07-02,Clothing,Jeans,3,609.47,0.0,Coimbatore,Online,Cash,45,4.0,1828.41,2026-07
+RET00165,2026-03-21,Electronics,Bluetooth Speaker,4,2866.48,0.0,Chennai,Online,Credit Card,38,4.1,11465.92,2026-03
+RET00166,2026-08-16,Sports,Running Shoes,5,3868.27,0.05,Madurai,Online,Credit Card,44,3.8,18374.28,2026-08
+RET00167,2026-04-25,Clothing,Jacket,1,1383.31,0.05,Thanjavur,Online,Debit Card,39,3.6,1314.14,2026-04
+RET00168,2026-07-23,Clothing,Kurti,1,2827.58,0.0,Tiruppur,Online,Credit Card,27,4.3,2827.58,2026-07
+RET00169,2026-07-06,Sports,Running Shoes,2,2831.34,0.0,Trichy,Online,Cash,29,4.2,5662.68,2026-07
+RET00170,2026-08-03,Home & Kitchen,Mixer,5,574.42,0.15,Salem,Store,UPI,40,3.9,2441.28,2026-08
+RET00171,2026-03-28,Home & Kitchen,Cookware Set,3,1031.64,0.15,Chennai,Online,Debit Card,43,3.5,2630.68,2026-03
+RET00172,2026-05-21,Electronics,Wireless Earbuds,2,2366.4,0.05,Salem,Online,Cash,52,4.6,4496.16,2026-05
+RET00173,2026-07-05,Sports,Cricket Bat,4,2570.41,0.1,Coimbatore,Store,Cash,29,3.0,9253.48,2026-07
+RET00174,2026-01-03,Sports,Football,1,1866.53,0.1,Tiruppur,Online,UPI,25,4.8,1679.88,2026-01
+RET00175,2026-06-19,Electronics,Power Bank,2,4594.81,0.0,Thanjavur,Online,Debit Card,51,3.1,9189.62,2026-06
+RET00176,2026-02-19,Electronics,Bluetooth Speaker,5,4397.21,0.2,Trichy,Online,Net Banking,54,4.8,17588.84,2026-02
+RET00177,2026-08-01,Electronics,Bluetooth Speaker,5,7990.907499999999,0.15,Chennai,Online,UPI,33,4.1,33961.36,2026-08
+RET00178,2026-02-20,Clothing,Kurti,5,2062.86,0.0,Thanjavur,Online,Debit Card,41,4.9,10314.3,2026-02
+RET00179,2026-01-02,Clothing,T-Shirt,5,939.98,0.05,Trichy,Store,UPI,64,3.0,4464.9,2026-01
+RET00180,2026-03-27,Clothing,Jacket,1,1684.82,0.1,Thanjavur,Store,Cash,46,4.0,1516.34,2026-03
+RET00181,2026-07-15,Sports,Football,2,1765.51,0.05,Chennai,Online,UPI,20,4.5,3354.47,2026-07
+RET00182,2026-01-17,Clothing,Jacket,5,2015.36,0.05,Tiruppur,Online,UPI,33,3.2,9572.96,2026-01
+RET00183,2026-05-20,Clothing,Kurti,2,2300.08,0.1,Tiruppur,Online,Net Banking,41,3.4,4140.14,2026-05
+RET00184,2026-09-09,Home & Kitchen,Cookware Set,3,4592.74,0.2,Madurai,Store,Credit Card,45,3.3,11022.58,2026-09
+RET00185,2026-06-13,Home & Kitchen,Table Lamp,1,3276.72,0.1,Tiruppur,Online,UPI,27,4.1,2949.05,2026-06
+RET00186,2026-01-08,Clothing,Kurti,1,1635.96,0.0,Tiruppur,Online,Debit Card,20,4.7,1635.96,2026-01
+RET00187,2026-06-20,Clothing,Jeans,5,1752.34,0.05,Thanjavur,Store,Net Banking,29,4.0,8323.61,2026-06
+RET00188,2026-02-20,Beauty,Sunscreen,2,826.2,0.0,Salem,Online,Debit Card,27,4.0,1652.4,2026-02
+RET00189,2026-06-22,Clothing,Jeans,2,1570.18,0.15,Tiruppur,Store,Debit Card,55,3.7,2669.31,2026-06
+RET00190,2026-09-29,Clothing,T-Shirt,5,2697.27,0.0,Thanjavur,Online,Credit Card,58,3.9,13486.35,2026-09
+RET00191,2026-03-04,Electronics,Bluetooth Speaker,1,5553.02,0.1,Madurai,Store,UPI,62,4.8,4997.72,2026-03
+RET00192,2026-07-17,Home & Kitchen,Mixer,5,3803.59,0.1,Trichy,Store,Credit Card,64,5.0,17116.16,2026-07
+RET00193,2026-01-31,Home & Kitchen,Cookware Set,5,458.68,0.05,Trichy,Online,UPI,31,3.8,2178.73,2026-01
+RET00194,2026-06-21,Clothing,T-Shirt,5,2159.76,0.0,Salem,Store,UPI,25,3.4,10798.8,2026-06
+RET00195,2026-09-13,Home & Kitchen,Table Lamp,3,1407.03,0.0,Thanjavur,Online,UPI,52,3.4,4221.09,2026-09
+RET00196,2026-09-10,Clothing,T-Shirt,2,2608.57,0.1,Trichy,Store,Cash,42,4.1,4695.43,2026-09
+RET00197,2026-04-26,Clothing,Jacket,2,437.96,0.0,Madurai,Online,Debit Card,40,3.5,875.92,2026-04
+RET00198,2026-05-09,Home & Kitchen,Cookware Set,2,2397.59,0.05,Trichy,Store,Cash,24,4.5,4555.42,2026-05
+RET00199,2026-05-27,Clothing,Jeans,4,672.66,0.15,Coimbatore,Online,UPI,28,4.4,2287.04,2026-05
+RET00200,2026-09-06,Electronics,Power Bank,1,5790.31,0.05,Trichy,Store,Credit Card,22,3.5,5500.79,2026-09
+RET00201,2026-02-25,Electronics,Bluetooth Speaker,3,4581.37,0.05,Tiruppur,Store,UPI,50,4.2,13056.9,2026-02
+RET00202,2026-07-08,Beauty,Sunscreen,1,413.76,0.0,Tiruppur,Online,Credit Card,25,4.9,413.76,2026-07
+RET00203,2026-02-10,Electronics,Smart Watch,1,7986.57,0.0,Coimbatore,Online,Cash,62,3.1,7986.57,2026-02
+RET00204,2026-09-17,Clothing,T-Shirt,5,2932.59,0.1,Coimbatore,Store,Net Banking,59,3.6,13196.66,2026-09
+RET00205,2026-04-02,Clothing,Kurti,4,1579.66,0.15,Thanjavur,Store,UPI,30,4.2,5370.84,2026-04
+RET00206,2026-01-22,Home & Kitchen,Bedsheet,5,4864.61,0.05,Chennai,Store,Credit Card,36,2.9,23106.9,2026-01
+RET00207,2026-06-04,Beauty,Face Wash,5,1526.56,0.0,Thanjavur,Online,Net Banking,27,5.0,7632.8,2026-06
+RET00208,2026-02-14,Beauty,Shampoo,5,381.22,0.2,Madurai,Online,Debit Card,44,3.8,1524.88,2026-02
+RET00209,2026-04-03,Electronics,Smart Watch,5,2469.92,0.0,Trichy,Store,Debit Card,34,4.3,12349.6,2026-04
+RET00210,2026-03-03,Beauty,Face Wash,5,1545.44,0.05,Trichy,Store,UPI,24,4.6,7340.84,2026-03
+RET00211,2026-07-18,Clothing,Jacket,2,1243.45,0.15,Thanjavur,Online,UPI,65,3.7,2113.87,2026-07
+RET00212,2026-01-29,Electronics,Wireless Earbuds,1,4165.73,0.1,Tiruppur,Online,UPI,59,4.0,3749.16,2026-01
+RET00213,2026-04-26,Electronics,Wireless Earbuds,3,5460.49,0.1,Chennai,Store,UPI,47,4.0,14743.32,2026-04
+RET00214,2026-08-20,Beauty,Lipstick,3,571.23,0.05,Thanjavur,Store,UPI,36,3.8,1628.01,2026-08
+RET00215,2026-04-19,Sports,Football,3,961.04,0.05,Tiruppur,Online,Credit Card,19,3.6,2738.96,2026-04
+RET00216,2026-03-12,Electronics,Power Bank,4,6879.52,0.0,Coimbatore,Online,Cash,57,3.6,27518.08,2026-03
+RET00217,2026-07-22,Home & Kitchen,Mixer,2,397.91,0.1,Tiruppur,Online,Net Banking,32,4.2,716.24,2026-07
+RET00218,2026-03-06,Electronics,Smart Watch,3,2951.39,0.05,Thanjavur,Online,Net Banking,45,4.1,8411.46,2026-03
+RET00219,2026-03-23,Home & Kitchen,Cookware Set,4,438.83,0.15,Chennai,Store,Cash,54,4.2,1492.02,2026-03
+RET00220,2026-06-30,Beauty,Lipstick,4,560.11,0.0,Tiruppur,Online,Debit Card,26,4.0,2240.44,2026-06
+RET00221,2026-02-21,Electronics,Bluetooth Speaker,2,4237.34,0.15,Chennai,Store,UPI,59,3.3,7203.48,2026-02
+RET00222,2026-07-26,Home & Kitchen,Mixer,2,4470.23,0.1,Tiruppur,Store,UPI,35,3.8,8046.41,2026-07
+RET00223,2026-03-14,Beauty,Shampoo,1,1462.46,0.0,Tiruppur,Online,UPI,22,3.9,1462.46,2026-03
+RET00224,2026-05-06,Home & Kitchen,Mixer,3,1372.8,0.0,Salem,Online,Credit Card,32,5.0,4118.4,2026-05
+RET00225,2026-04-20,Beauty,Face Wash,4,1664.15,0.05,Salem,Online,Debit Card,19,3.7,6323.77,2026-04
+RET00226,2026-05-13,Electronics,Bluetooth Speaker,4,1655.21,0.15,Salem,Store,UPI,53,4.0,5627.71,2026-05
+RET00227,2026-09-02,Electronics,Wireless Earbuds,3,5425.58,0.05,Madurai,Store,Cash,18,4.5,15462.9,2026-09
+RET00228,2026-04-27,Sports,Football,3,1521.57,0.1,Trichy,Online,Credit Card,18,4.4,4108.24,2026-04
+RET00229,2026-03-17,Electronics,Bluetooth Speaker,4,4396.33,0.05,Salem,Online,UPI,19,4.3,16706.05,2026-03
+RET00230,2026-05-07,Clothing,Jeans,4,1683.55,0.2,Trichy,Store,Credit Card,51,3.1,5387.36,2026-05
+RET00231,2026-08-02,Electronics,Power Bank,5,5105.23,0.05,Trichy,Online,UPI,56,4.4,24249.84,2026-08
+RET00232,2026-04-24,Electronics,Wireless Earbuds,5,3326.54,0.1,Coimbatore,Online,Credit Card,53,3.8,14969.43,2026-04
+RET00233,2026-01-26,Home & Kitchen,Bedsheet,1,1764.26,0.05,Chennai,Store,Debit Card,26,4.6,1676.05,2026-01
+RET00234,2026-06-05,Home & Kitchen,Cookware Set,1,3138.03,0.0,Tiruppur,Online,UPI,59,5.0,3138.03,2026-06
+RET00235,2026-09-27,Beauty,Lipstick,5,554.86,0.0,Tiruppur,Online,Credit Card,27,4.7,2774.3,2026-09
+RET00236,2026-08-13,Clothing,Kurti,5,1984.65,0.15,Trichy,Online,UPI,42,5.0,8434.76,2026-08
+RET00237,2026-09-05,Sports,Yoga Mat,1,1875.83,0.05,Chennai,Online,Debit Card,52,3.2,1782.04,2026-09
+RET00238,2026-06-10,Clothing,Kurti,1,1531.17,0.1,Coimbatore,Store,Net Banking,65,4.5,1378.05,2026-06
+RET00239,2026-01-18,Beauty,Sunscreen,5,422.32,0.15,Coimbatore,Store,Credit Card,52,2.7,1794.86,2026-01
+RET00240,2026-07-13,Clothing,T-Shirt,5,2476.81,0.1,Salem,Store,Cash,52,3.5,11145.64,2026-07
+RET00241,2026-01-15,Electronics,Bluetooth Speaker,1,6327.32,0.0,Coimbatore,Online,UPI,61,3.1,6327.32,2026-01
+RET00242,2026-03-20,Sports,Yoga Mat,1,851.47,0.1,Coimbatore,Online,UPI,23,4.6,766.32,2026-03
+RET00243,2026-08-10,Electronics,Wireless Earbuds,3,1272.38,0.05,Coimbatore,Online,Credit Card,26,3.6,3626.28,2026-08
+RET00244,2026-01-21,Home & Kitchen,Table Lamp,2,2206.59,0.0,Coimbatore,Online,UPI,27,4.2,4413.18,2026-01
+RET00245,2026-08-17,Home & Kitchen,Cookware Set,2,2219.34,0.15,Madurai,Store,Cash,51,3.5,3772.88,2026-08
+RET00246,2026-03-29,Clothing,Kurti,4,2916.41,0.15,Tiruppur,Online,Credit Card,22,3.2,9915.79,2026-03
+RET00247,2026-08-01,Sports,Football,5,3468.38,0.1,Salem,Online,Cash,23,3.4,15607.71,2026-08
+RET00248,2026-04-20,Electronics,Power Bank,5,4543.94,0.05,Coimbatore,Online,Debit Card,23,4.7,21583.71,2026-04
+RET00249,2026-05-26,Home & Kitchen,Cookware Set,4,359.02,0.15,Salem,Store,Cash,44,3.7,1220.67,2026-05
+RET00250,2026-06-24,Clothing,T-Shirt,5,1877.87,0.05,Tiruppur,Online,Cash,33,4.4,8919.88,2026-06
+RET00251,2026-02-24,Home & Kitchen,Cookware Set,5,2023.71,0.1,Salem,Online,Credit Card,65,4.4,9106.7,2026-02
+RET00252,2026-09-09,Clothing,T-Shirt,5,540.62,0.0,Trichy,Online,UPI,33,4.7,2703.1,2026-09
+RET00253,2026-03-23,Electronics,Bluetooth Speaker,2,906.7,0.0,Trichy,Store,Debit Card,18,3.3,1813.4,2026-03
+RET00254,2026-03-24,Electronics,Smart Watch,3,6190.74,0.1,Chennai,Store,Credit Card,41,4.1,16715.0,2026-03
+RET00255,2026-01-25,Clothing,Jeans,3,585.61,0.1,Salem,Online,Net Banking,62,3.3,1581.15,2026-01
+RET00256,2026-04-20,Beauty,Face Wash,2,1799.67,0.0,Trichy,Online,Debit Card,31,3.9,3599.34,2026-04
+RET00257,2026-07-23,Sports,Football,3,3994.9,0.15,Chennai,Online,Cash,34,4.8,10187.0,2026-07
+RET00258,2026-08-07,Home & Kitchen,Bedsheet,5,3589.32,0.0,Coimbatore,Store,UPI,47,5.0,17946.6,2026-08
+RET00259,2026-06-13,Electronics,Wireless Earbuds,5,4816.01,0.1,Coimbatore,Store,UPI,58,3.0,21672.04,2026-06
+RET00260,2026-04-30,Sports,Football,2,3640.14,0.1,Salem,Store,Cash,35,5.0,6552.25,2026-04
+RET00261,2026-08-25,Clothing,Jacket,3,953.71,0.2,Salem,Online,UPI,36,4.4,2288.9,2026-08
+RET00262,2026-06-01,Beauty,Face Wash,1,265.24,0.0,Chennai,Online,Net Banking,49,3.0,265.24,2026-06
+RET00263,2026-05-06,Clothing,Jacket,2,1972.11,0.15,Madurai,Online,Debit Card,50,3.5,3352.59,2026-05
+RET00264,2026-05-07,Electronics,Wireless Earbuds,1,7990.907499999999,0.05,Chennai,Store,Debit Card,20,3.6,7591.36,2026-05
+RET00265,2026-02-28,Sports,Cricket Bat,4,2021.36,0.0,Salem,Store,Credit Card,32,4.3,8085.44,2026-02
+RET00266,2026-01-11,Beauty,Shampoo,5,352.85,0.0,Tiruppur,Online,Net Banking,51,3.6,1764.25,2026-01
+RET00267,2026-05-01,Clothing,Jeans,3,1931.19,0.0,Thanjavur,Online,UPI,21,4.3,5793.57,2026-05
+RET00268,2026-07-02,Beauty,Face Wash,1,1731.85,0.0,Madurai,Online,Debit Card,43,3.8,1731.85,2026-07
+RET00269,2026-04-02,Home & Kitchen,Table Lamp,5,4431.9,0.0,Tiruppur,Online,UPI,61,4.7,22159.5,2026-04
+RET00270,2026-03-07,Clothing,Kurti,3,1691.75,0.05,Coimbatore,Store,UPI,51,4.3,4821.49,2026-03
+RET00271,2026-01-21,Beauty,Lipstick,4,980.59,0.05,Salem,Online,Net Banking,34,3.6,3726.24,2026-01
+RET00272,2026-01-10,Electronics,Bluetooth Speaker,4,2429.15,0.15,Trichy,Store,Debit Card,22,4.5,8259.11,2026-01
+RET00273,2026-09-17,Electronics,Smart Watch,2,1246.48,0.05,Thanjavur,Online,Credit Card,44,4.4,2368.31,2026-09
+RET00274,2026-04-21,Sports,Football,1,1806.21,0.05,Salem,Online,UPI,35,4.4,1715.9,2026-04
+RET00275,2026-05-26,Clothing,Jeans,2,761.56,0.0,Tiruppur,Store,Debit Card,43,3.3,1523.12,2026-05
+RET00276,2026-06-10,Sports,Yoga Mat,2,3171.15,0.0,Salem,Store,Credit Card,57,5.0,6342.3,2026-06
+RET00277,2026-03-28,Clothing,Jeans,4,2891.08,0.1,Salem,Online,Credit Card,47,4.3,10407.89,2026-03
+RET00278,2026-05-01,Home & Kitchen,Table Lamp,3,1624.52,0.05,Salem,Store,UPI,47,3.1,4629.88,2026-05
+RET00279,2026-09-11,Home & Kitchen,Bedsheet,3,3334.33,0.1,Tiruppur,Online,UPI,49,4.0,9002.69,2026-09
+RET00280,2026-02-14,Sports,Running Shoes,5,1605.85,0.1,Chennai,Store,Credit Card,47,4.1,7226.32,2026-02
+RET00281,2026-08-24,Clothing,Jeans,4,2620.04,0.15,Thanjavur,Store,Credit Card,23,4.8,8908.14,2026-08
+RET00282,2026-06-19,Clothing,Kurti,1,1756.33,0.1,Chennai,Online,Debit Card,28,3.8,1580.7,2026-06
+RET00283,2026-09-06,Home & Kitchen,Table Lamp,3,2197.66,0.0,Trichy,Online,Debit Card,27,4.1,6592.98,2026-09
+RET00284,2026-05-19,Electronics,Wireless Earbuds,1,4713.7,0.05,Salem,Online,Cash,39,3.7,4478.01,2026-05
+RET00285,2026-09-08,Clothing,Jacket,1,835.14,0.05,Thanjavur,Online,Credit Card,25,3.7,793.38,2026-09
+RET00286,2026-04-17,Sports,Running Shoes,2,1202.32,0.1,Tiruppur,Online,Debit Card,24,5.0,2164.18,2026-04
+RET00287,2026-08-15,Electronics,Power Bank,5,2508.52,0.1,Tiruppur,Online,Credit Card,57,4.5,11288.34,2026-08
+RET00288,2026-08-24,Home & Kitchen,Cookware Set,2,2703.26,0.05,Tiruppur,Online,Net Banking,62,4.0,5136.19,2026-08
+RET00289,2026-08-31,Beauty,Lipstick,4,1525.86,0.15,Salem,Online,Net Banking,43,5.0,5187.92,2026-08
+RET00290,2026-09-08,Home & Kitchen,Table Lamp,1,3141.18,0.0,Chennai,Store,UPI,65,4.9,3141.18,2026-09
+RET00291,2026-03-25,Electronics,Wireless Earbuds,1,7990.907499999999,0.0,Salem,Online,Cash,63,4.4,7990.91,2026-03
+RET00292,2026-06-07,Electronics,Bluetooth Speaker,3,1691.62,0.1,Chennai,Store,Debit Card,34,4.7,4567.37,2026-06
+RET00293,2026-08-13,Clothing,T-Shirt,5,629.18,0.05,Madurai,Online,Credit Card,55,4.7,2988.6,2026-08
+RET00294,2026-08-26,Home & Kitchen,Table Lamp,3,2798.58,0.15,Tiruppur,Store,UPI,43,3.3,7136.38,2026-08
+RET00295,2026-03-13,Sports,Cricket Bat,4,3035.73,0.0,Madurai,Store,Credit Card,40,3.4,12142.92,2026-03
+RET00296,2026-02-02,Clothing,T-Shirt,4,1301.64,0.1,Chennai,Online,Debit Card,65,3.7,4685.9,2026-02
+RET00297,2026-02-14,Clothing,T-Shirt,1,763.54,0.1,Madurai,Online,Debit Card,25,5.0,687.19,2026-02
+RET00298,2026-01-02,Home & Kitchen,Mixer,1,3841.94,0.1,Chennai,Online,Credit Card,50,4.6,3457.75,2026-01
+RET00299,2026-01-21,Clothing,Jacket,4,1348.35,0.05,Salem,Store,UPI,53,2.9,5123.73,2026-01
+RET00300,2026-06-30,Home & Kitchen,Bedsheet,3,4956.7,0.1,Coimbatore,Online,Cash,51,2.8,13383.09,2026-06
+RET00301,2026-07-09,Sports,Running Shoes,1,1873.61,0.0,Trichy,Online,Credit Card,25,4.7,1873.61,2026-07
+RET00302,2026-09-23,Home & Kitchen,Table Lamp,5,550.83,0.0,Salem,Store,Credit Card,34,4.6,2754.15,2026-09
+RET00303,2026-09-27,Clothing,Jeans,1,2398.18,0.15,Trichy,Store,Credit Card,61,3.8,2038.45,2026-09
+RET00304,2026-07-25,Electronics,Smart Watch,4,7401.01,0.05,Coimbatore,Online,Credit Card,34,4.6,28123.84,2026-07
+RET00305,2026-02-02,Clothing,Jacket,2,2756.05,0.15,Thanjavur,Online,Credit Card,33,3.0,4685.28,2026-02
+RET00306,2026-04-02,Clothing,Jacket,1,2986.88,0.15,Madurai,Online,Debit Card,40,5.0,2538.85,2026-04
+RET00307,2026-07-24,Beauty,Face Wash,5,580.6,0.0,Salem,Store,Cash,40,3.8,2903.0,2026-07
+RET00308,2026-09-23,Home & Kitchen,Mixer,2,2764.79,0.1,Chennai,Store,Net Banking,62,5.0,4976.62,2026-09
+RET00309,2026-08-02,Sports,Running Shoes,2,1014.55,0.0,Tiruppur,Online,Net Banking,20,3.4,2029.1,2026-08
+RET00310,2026-09-19,Electronics,Wireless Earbuds,4,4184.07,0.1,Coimbatore,Online,UPI,46,3.9,15062.65,2026-09
+RET00311,2026-05-21,Home & Kitchen,Bedsheet,1,1578.39,0.0,Trichy,Online,Debit Card,64,3.8,1578.39,2026-05
+RET00312,2026-08-21,Clothing,T-Shirt,1,1954.74,0.2,Salem,Store,Credit Card,22,3.7,1563.79,2026-08
+RET00313,2026-09-04,Beauty,Lipstick,5,1670.38,0.0,Coimbatore,Online,Debit Card,62,3.5,8351.9,2026-09
+RET00314,2026-08-07,Home & Kitchen,Table Lamp,3,881.37,0.15,Madurai,Online,Net Banking,57,4.3,2247.49,2026-08
+RET00315,2026-01-03,Clothing,Kurti,2,466.63,0.0,Chennai,Online,UPI,35,4.3,933.26,2026-01
+RET00316,2026-07-24,Electronics,Power Bank,1,3879.05,0.2,Madurai,Online,UPI,43,4.4,3103.24,2026-07
+RET00317,2026-06-14,Clothing,Kurti,3,2368.92,0.1,Madurai,Store,UPI,27,3.6,6396.08,2026-06
+RET00318,2026-03-22,Electronics,Bluetooth Speaker,4,6230.9,0.1,Thanjavur,Online,Debit Card,59,4.1,22431.24,2026-03
+RET00319,2026-01-07,Beauty,Lipstick,2,466.39,0.1,Salem,Online,Cash,43,2.7,839.5,2026-01
+RET00320,2026-02-11,Beauty,Face Wash,2,1662.78,0.0,Trichy,Online,UPI,39,3.6,3325.56,2026-02
+RET00321,2026-02-14,Electronics,Bluetooth Speaker,5,2663.44,0.0,Thanjavur,Online,Debit Card,58,3.6,13317.2,2026-02
+RET00322,2026-03-25,Electronics,Bluetooth Speaker,3,5285.23,0.05,Salem,Online,Credit Card,30,3.2,15062.91,2026-03
+RET00323,2026-09-06,Clothing,Kurti,4,799.52,0.05,Coimbatore,Online,UPI,24,3.8,3038.18,2026-09
+RET00324,2026-02-01,Clothing,Kurti,2,2731.68,0.05,Trichy,Store,Credit Card,28,4.0,5190.19,2026-02
+RET00325,2026-06-27,Electronics,Wireless Earbuds,5,5835.99,0.1,Chennai,Store,Credit Card,52,5.0,26261.96,2026-06
+RET00326,2026-08-06,Home & Kitchen,Table Lamp,4,4578.9,0.1,Trichy,Online,Credit Card,21,3.5,16484.04,2026-08
+RET00327,2026-03-09,Home & Kitchen,Mixer,4,394.58,0.1,Chennai,Online,UPI,20,4.0,1420.49,2026-03
+RET00328,2026-08-12,Home & Kitchen,Table Lamp,1,765.51,0.1,Madurai,Store,Net Banking,41,5.0,688.96,2026-08
+RET00329,2026-05-13,Clothing,Kurti,4,2514.41,0.15,Coimbatore,Store,Debit Card,23,3.2,8548.99,2026-05
+RET00330,2026-01-03,Clothing,Jeans,5,2048.37,0.15,Thanjavur,Online,Credit Card,55,5.0,8705.57,2026-01
+RET00331,2026-03-13,Electronics,Power Bank,1,3845.72,0.1,Chennai,Store,Debit Card,42,4.0,3461.15,2026-03
+RET00332,2026-04-10,Electronics,Bluetooth Speaker,1,5902.23,0.05,Chennai,Online,UPI,60,3.7,5607.12,2026-04
+RET00333,2026-01-30,Home & Kitchen,Cookware Set,5,4417.17,0.0,Chennai,Store,UPI,33,4.3,22085.85,2026-01
+RET00334,2026-07-17,Sports,Yoga Mat,5,2032.21,0.05,Trichy,Online,Cash,65,4.6,9653.0,2026-07
+RET00335,2026-01-26,Electronics,Wireless Earbuds,2,2175.26,0.05,Coimbatore,Store,Credit Card,45,3.9,4132.99,2026-01
+RET00336,2026-02-25,Sports,Cricket Bat,5,3237.66,0.0,Madurai,Online,Credit Card,28,4.1,16188.3,2026-02
+RET00337,2026-07-22,Clothing,Jacket,3,883.63,0.15,Trichy,Online,Credit Card,55,4.1,2253.26,2026-07
+RET00338,2026-09-15,Clothing,T-Shirt,4,2079.91,0.0,Thanjavur,Online,Net Banking,57,4.1,8319.64,2026-09
+RET00339,2026-08-15,Electronics,Power Bank,2,949.78,0.0,Salem,Store,UPI,58,3.1,1899.56,2026-08
+RET00340,2026-04-06,Sports,Cricket Bat,4,2163.74,0.0,Coimbatore,Online,Credit Card,54,4.9,8654.96,2026-04
+RET00341,2026-08-07,Clothing,Jacket,5,1241.77,0.05,Chennai,Online,Debit Card,36,3.3,5898.41,2026-08
+RET00342,2026-08-11,Electronics,Wireless Earbuds,5,3732.69,0.05,Coimbatore,Online,Net Banking,33,4.0,17730.28,2026-08
+RET00343,2026-04-13,Beauty,Shampoo,2,212.4,0.15,Coimbatore,Online,UPI,20,4.3,361.08,2026-04
+RET00344,2026-04-14,Clothing,Kurti,1,932.96,0.0,Madurai,Online,UPI,31,3.7,932.96,2026-04
+RET00345,2026-09-25,Electronics,Wireless Earbuds,2,5393.96,0.1,Madurai,Online,Credit Card,23,3.5,9709.13,2026-09
+RET00346,2026-05-12,Clothing,Jeans,1,418.19,0.1,Coimbatore,Online,UPI,35,5.0,376.37,2026-05
+RET00347,2026-06-24,Clothing,Kurti,5,2904.38,0.15,Chennai,Store,Credit Card,30,4.0,12343.62,2026-06
+RET00348,2026-01-07,Clothing,Jeans,5,869.78,0.15,Madurai,Online,Cash,57,3.6,3696.56,2026-01
+RET00349,2026-09-09,Sports,Running Shoes,4,3544.76,0.0,Coimbatore,Online,Net Banking,49,2.9,14179.04,2026-09
+RET00350,2026-01-18,Electronics,Power Bank,5,1958.11,0.1,Coimbatore,Store,Credit Card,49,4.1,8811.49,2026-01
+RET00351,2026-07-21,Beauty,Lipstick,1,1110.81,0.0,Coimbatore,Online,Net Banking,43,4.2,1110.81,2026-07
+RET00352,2026-09-03,Clothing,Jeans,3,2804.11,0.15,Tiruppur,Online,UPI,32,5.0,7150.48,2026-09
+RET00353,2026-08-15,Home & Kitchen,Bedsheet,1,2809.72,0.1,Chennai,Online,Debit Card,20,3.3,2528.75,2026-08
+RET00354,2026-01-23,Home & Kitchen,Cookware Set,3,3238.35,0.0,Madurai,Store,UPI,48,3.6,9715.05,2026-01
+RET00355,2026-01-25,Home & Kitchen,Cookware Set,1,1095.61,0.0,Tiruppur,Online,Cash,28,4.0,1095.61,2026-01
+RET00356,2026-08-17,Home & Kitchen,Mixer,5,2826.54,0.1,Trichy,Online,UPI,56,4.5,12719.43,2026-08
+RET00357,2026-08-12,Electronics,Smart Watch,1,5597.6,0.1,Chennai,Online,Debit Card,48,4.7,5037.84,2026-08
+RET00358,2026-07-27,Home & Kitchen,Table Lamp,3,4231.31,0.1,Salem,Store,UPI,37,5.0,11424.54,2026-07
+RET00359,2026-03-29,Electronics,Power Bank,5,4656.61,0.0,Salem,Store,Debit Card,35,3.3,23283.05,2026-03
+RET00360,2026-08-28,Home & Kitchen,Table Lamp,5,1758.97,0.15,Salem,Online,UPI,39,4.0,7475.62,2026-08
+RET00361,2026-01-08,Electronics,Wireless Earbuds,3,3610.51,0.1,Coimbatore,Store,Net Banking,23,3.7,9748.38,2026-01
+RET00362,2026-06-23,Electronics,Power Bank,3,3593.49,0.0,Thanjavur,Store,UPI,23,4.9,10780.47,2026-06
+RET00363,2026-01-18,Beauty,Lipstick,3,1252.22,0.0,Coimbatore,Online,UPI,57,4.3,3756.66,2026-01
+RET00364,2026-02-11,Beauty,Shampoo,3,278.06,0.05,Salem,Online,Net Banking,29,4.0,792.47,2026-02
+RET00365,2026-01-02,Electronics,Bluetooth Speaker,3,4889.89,0.0,Tiruppur,Online,Net Banking,64,5.0,14669.67,2026-01
+RET00366,2026-04-13,Electronics,Power Bank,1,3384.27,0.1,Chennai,Online,Credit Card,28,3.7,3045.84,2026-04
+RET00367,2026-07-29,Sports,Football,4,3218.68,0.05,Madurai,Store,UPI,27,3.8,12230.98,2026-07
+RET00368,2026-02-19,Sports,Yoga Mat,2,4388.5,0.0,Chennai,Online,Credit Card,40,3.7,8777.0,2026-02
+RET00369,2026-07-27,Electronics,Wireless Earbuds,4,2995.04,0.0,Tiruppur,Online,Cash,32,3.5,11980.16,2026-07
+RET00370,2026-01-11,Electronics,Power Bank,3,7990.907499999999,0.15,Chennai,Store,Cash,35,3.8,20376.81,2026-01
+RET00371,2026-07-10,Home & Kitchen,Bedsheet,1,797.51,0.0,Trichy,Online,Net Banking,23,5.0,797.51,2026-07
+RET00372,2026-06-14,Clothing,Jeans,4,2931.67,0.05,Thanjavur,Online,UPI,28,3.7,11140.35,2026-06
+RET00373,2026-03-03,Clothing,Jeans,4,546.31,0.15,Chennai,Store,Cash,44,4.0,1857.45,2026-03
+RET00374,2026-06-26,Clothing,Jacket,3,554.14,0.1,Trichy,Store,UPI,44,3.8,1496.18,2026-06
+RET00375,2026-02-19,Electronics,Smart Watch,5,3959.98,0.05,Madurai,Online,UPI,57,4.7,18809.9,2026-02
+RET00376,2026-06-12,Electronics,Smart Watch,2,2874.33,0.2,Salem,Store,Credit Card,33,3.5,4598.93,2026-06
+RET00377,2026-03-11,Sports,Running Shoes,1,2501.57,0.0,Chennai,Store,Credit Card,46,4.0,2501.57,2026-03
+RET00378,2026-09-30,Beauty,Sunscreen,1,1403.35,0.0,Coimbatore,Online,Debit Card,31,4.8,1403.35,2026-09
+RET00379,2026-05-05,Sports,Running Shoes,5,2883.42,0.1,Thanjavur,Online,Cash,51,3.6,12975.39,2026-05
+RET00380,2026-03-19,Clothing,Jeans,3,685.47,0.1,Tiruppur,Online,UPI,52,3.7,1850.77,2026-03
+RET00381,2026-02-05,Clothing,T-Shirt,5,2524.13,0.15,Tiruppur,Online,Net Banking,27,3.2,10727.55,2026-02
+RET00382,2026-06-18,Electronics,Bluetooth Speaker,2,4707.5,0.05,Coimbatore,Online,UPI,45,4.4,8944.25,2026-06
+RET00383,2026-04-12,Home & Kitchen,Cookware Set,5,4851.3,0.0,Trichy,Online,Net Banking,53,2.1,24256.5,2026-04
+RET00384,2026-08-12,Electronics,Power Bank,1,7456.64,0.05,Trichy,Store,Debit Card,36,3.8,7083.81,2026-08
+RET00385,2026-05-11,Home & Kitchen,Table Lamp,5,2768.75,0.0,Tiruppur,Store,UPI,33,4.3,13843.75,2026-05
+RET00386,2026-06-27,Home & Kitchen,Table Lamp,1,4183.91,0.05,Tiruppur,Online,Cash,36,5.0,3974.71,2026-06
+RET00387,2026-07-06,Clothing,Jeans,1,2855.39,0.2,Thanjavur,Store,Credit Card,25,3.7,2284.31,2026-07
+RET00388,2026-05-23,Home & Kitchen,Mixer,3,2159.28,0.0,Thanjavur,Online,Credit Card,58,2.5,6477.84,2026-05
+RET00389,2026-03-20,Electronics,Smart Watch,5,3870.37,0.0,Madurai,Store,Debit Card,25,4.2,19351.85,2026-03
+RET00390,2026-04-17,Beauty,Sunscreen,2,1231.33,0.1,Madurai,Online,Cash,46,4.2,2216.39,2026-04
+RET00391,2026-07-25,Electronics,Bluetooth Speaker,5,3398.85,0.05,Chennai,Online,Debit Card,50,3.6,16144.54,2026-07
+RET00392,2026-06-24,Sports,Cricket Bat,3,1854.95,0.0,Chennai,Online,UPI,64,3.7,5564.85,2026-06
+RET00393,2026-03-19,Clothing,T-Shirt,1,1644.3,0.1,Tiruppur,Online,UPI,35,4.7,1479.87,2026-03
+RET00394,2026-04-06,Clothing,Jacket,3,2544.38,0.0,Salem,Store,Net Banking,50,4.3,7633.14,2026-04
+RET00395,2026-02-16,Beauty,Face Wash,2,1574.61,0.05,Coimbatore,Online,UPI,37,4.8,2991.76,2026-02
+RET00396,2026-08-07,Beauty,Lipstick,1,291.13,0.15,Madurai,Online,UPI,48,3.6,247.46,2026-08
+RET00397,2026-08-01,Sports,Yoga Mat,3,4173.71,0.1,Trichy,Store,Cash,37,5.0,11269.02,2026-08
+RET00398,2026-03-30,Home & Kitchen,Mixer,2,3027.58,0.05,Madurai,Store,UPI,38,4.1,5752.4,2026-03
+RET00399,2026-01-11,Sports,Football,5,4486.68,0.1,Madurai,Online,UPI,28,3.6,20190.06,2026-01
+RET00400,2026-05-20,Beauty,Shampoo,5,686.03,0.05,Trichy,Store,Debit Card,53,5.0,3258.64,2026-05
+RET00401,2026-02-17,Sports,Yoga Mat,4,1382.15,0.1,Trichy,Online,UPI,53,5.0,4975.74,2026-02
+RET00402,2026-01-28,Sports,Running Shoes,1,1801.32,0.1,Salem,Online,Credit Card,21,3.4,1621.19,2026-01
+RET00403,2026-05-02,Beauty,Lipstick,5,1011.59,0.1,Salem,Online,Credit Card,61,5.0,4552.16,2026-05
+RET00404,2026-07-10,Beauty,Shampoo,5,1649.11,0.05,Chennai,Online,UPI,24,4.9,7833.27,2026-07
+RET00405,2026-08-26,Electronics,Smart Watch,2,5963.74,0.0,Thanjavur,Store,Cash,37,3.6,11927.48,2026-08
+RET00406,2026-02-06,Home & Kitchen,Table Lamp,5,4708.33,0.0,Thanjavur,Online,UPI,20,3.8,23541.65,2026-02
+RET00407,2026-02-27,Home & Kitchen,Bedsheet,3,2605.87,0.0,Thanjavur,Store,Credit Card,18,3.7,7817.61,2026-02
+RET00408,2026-02-23,Clothing,Jeans,2,2306.29,0.0,Thanjavur,Online,UPI,55,4.1,4612.58,2026-02
+RET00409,2026-03-12,Electronics,Wireless Earbuds,1,6973.8,0.2,Madurai,Online,UPI,52,2.9,5579.04,2026-03
+RET00410,2026-03-14,Electronics,Power Bank,2,7990.907499999999,0.1,Thanjavur,Store,UPI,62,4.4,14383.63,2026-03
+RET00411,2026-03-20,Beauty,Face Wash,1,1074.96,0.05,Trichy,Online,Credit Card,55,3.9,1021.21,2026-03
+RET00412,2026-03-12,Clothing,Kurti,2,2218.46,0.05,Tiruppur,Online,Credit Card,26,4.1,4215.07,2026-03
+RET00413,2026-01-29,Beauty,Sunscreen,2,1764.14,0.05,Salem,Store,UPI,45,3.0,3351.87,2026-01
+RET00414,2026-06-15,Electronics,Smart Watch,1,6703.84,0.15,Coimbatore,Online,Credit Card,37,2.5,5698.26,2026-06
+RET00415,2026-04-14,Electronics,Bluetooth Speaker,2,3554.01,0.15,Thanjavur,Store,UPI,58,5.0,6041.82,2026-04
+RET00416,2026-09-06,Electronics,Smart Watch,3,2985.5,0.05,Salem,Online,Credit Card,27,5.0,8508.67,2026-09
+RET00417,2026-03-15,Electronics,Wireless Earbuds,3,1540.18,0.1,Trichy,Online,UPI,32,4.7,4158.49,2026-03
+RET00418,2026-08-23,Electronics,Bluetooth Speaker,3,3368.83,0.05,Thanjavur,Online,Credit Card,36,3.7,9601.17,2026-08
+RET00419,2026-07-27,Beauty,Face Wash,1,1526.79,0.0,Chennai,Online,Debit Card,61,2.9,1526.79,2026-07
+RET00420,2026-01-17,Clothing,T-Shirt,1,463.57,0.0,Tiruppur,Store,Credit Card,52,4.2,463.57,2026-01
+RET00421,2026-04-30,Clothing,Jacket,4,2558.02,0.05,Coimbatore,Online,Credit Card,33,3.9,9720.48,2026-04
+RET00422,2026-02-19,Beauty,Sunscreen,1,692.36,0.05,Madurai,Online,UPI,63,4.2,657.74,2026-02
+RET00423,2026-09-28,Beauty,Shampoo,1,1674.19,0.1,Salem,Online,Debit Card,28,3.5,1506.77,2026-09
+RET00424,2026-04-30,Clothing,Kurti,3,755.64,0.05,Trichy,Store,Credit Card,35,3.8,2153.57,2026-04
+RET00425,2026-03-18,Sports,Yoga Mat,5,4253.35,0.1,Madurai,Store,Debit Card,44,2.8,19140.08,2026-03
+RET00426,2026-02-02,Electronics,Bluetooth Speaker,1,7990.907499999999,0.05,Salem,Store,UPI,48,3.6,7591.36,2026-02
+RET00427,2026-03-03,Home & Kitchen,Cookware Set,5,1737.28,0.05,Coimbatore,Store,UPI,34,4.9,8252.08,2026-03
+RET00428,2026-03-15,Electronics,Power Bank,5,3865.54,0.0,Coimbatore,Online,Cash,36,4.1,19327.7,2026-03
+RET00429,2026-04-16,Sports,Cricket Bat,5,1419.63,0.0,Salem,Store,UPI,64,4.5,7098.15,2026-04
+RET00430,2026-03-31,Beauty,Sunscreen,3,356.19,0.2,Trichy,Store,Net Banking,56,4.9,854.86,2026-03
+RET00431,2026-08-28,Beauty,Sunscreen,4,1260.87,0.0,Tiruppur,Store,UPI,45,3.9,5043.48,2026-08
+RET00432,2026-04-08,Home & Kitchen,Table Lamp,4,4201.95,0.1,Coimbatore,Online,Debit Card,53,3.8,15127.02,2026-04
+RET00433,2026-01-09,Sports,Running Shoes,2,1900.22,0.1,Tiruppur,Online,UPI,56,4.5,3420.4,2026-01
+RET00434,2026-09-02,Beauty,Shampoo,4,1026.74,0.0,Thanjavur,Online,Net Banking,64,4.5,4106.96,2026-09
+RET00435,2026-08-24,Beauty,Sunscreen,1,1077.36,0.05,Trichy,Online,UPI,36,4.0,1023.49,2026-08
+RET00436,2026-09-20,Beauty,Lipstick,5,1592.07,0.0,Thanjavur,Online,UPI,31,4.8,7960.35,2026-09
+RET00437,2026-07-08,Beauty,Sunscreen,5,1386.43,0.1,Trichy,Online,Debit Card,50,4.2,6238.94,2026-07
+RET00438,2026-05-14,Sports,Running Shoes,3,2569.75,0.0,Coimbatore,Online,UPI,49,3.9,7709.25,2026-05
+RET00439,2026-03-02,Electronics,Bluetooth Speaker,4,2655.86,0.1,Madurai,Store,UPI,40,3.5,9561.1,2026-03
+RET00440,2026-08-19,Beauty,Sunscreen,5,252.07,0.15,Chennai,Store,UPI,24,3.0,1071.3,2026-08
+RET00441,2026-09-15,Beauty,Sunscreen,5,1688.73,0.0,Thanjavur,Store,Cash,45,4.1,8443.65,2026-09
+RET00442,2026-06-10,Clothing,Jeans,3,2446.93,0.0,Salem,Store,Credit Card,18,3.6,7340.79,2026-06
+RET00443,2026-02-10,Beauty,Sunscreen,1,268.03,0.15,Coimbatore,Store,Debit Card,34,5.0,227.83,2026-02
+RET00444,2026-07-14,Clothing,Kurti,1,1378.31,0.0,Coimbatore,Online,Debit Card,39,3.8,1378.31,2026-07
+RET00445,2026-04-12,Electronics,Power Bank,5,2594.1,0.2,Thanjavur,Online,Credit Card,58,4.3,10376.4,2026-04
+RET00446,2026-08-08,Clothing,Kurti,1,1253.9,0.05,Trichy,Online,Credit Card,57,3.0,1191.2,2026-08
+RET00447,2026-04-10,Home & Kitchen,Cookware Set,3,673.17,0.1,Thanjavur,Online,UPI,21,4.0,1817.56,2026-04
+RET00448,2026-09-04,Electronics,Wireless Earbuds,3,6554.51,0.0,Chennai,Store,Net Banking,29,4.8,19663.53,2026-09
+RET00449,2026-08-31,Electronics,Smart Watch,2,2035.44,0.1,Salem,Store,Debit Card,49,3.4,3663.79,2026-08
+RET00450,2026-01-09,Sports,Football,3,1856.35,0.05,Madurai,Store,Debit Card,32,2.6,5290.6,2026-01
+RET00451,2026-03-27,Clothing,Kurti,5,2652.6,0.0,Coimbatore,Online,UPI,54,3.5,13263.0,2026-03
+RET00452,2026-06-27,Electronics,Smart Watch,4,4430.42,0.0,Salem,Online,Credit Card,51,4.4,17721.68,2026-06
+RET00453,2026-04-05,Home & Kitchen,Cookware Set,1,4179.77,0.15,Trichy,Online,Debit Card,24,3.4,3552.8,2026-04
+RET00454,2026-03-11,Home & Kitchen,Table Lamp,2,1307.59,0.0,Trichy,Store,Net Banking,19,3.4,2615.18,2026-03
+RET00455,2026-04-16,Beauty,Sunscreen,3,1735.59,0.1,Thanjavur,Online,UPI,34,4.4,4686.09,2026-04
+RET00456,2026-08-19,Clothing,Jeans,4,7990.907499999999,0.1,Trichy,Store,Credit Card,65,3.8,28767.27,2026-08
+RET00457,2026-04-06,Clothing,Jacket,3,1228.49,0.1,Madurai,Store,Net Banking,43,3.1,3316.92,2026-04
+RET00458,2026-04-18,Sports,Running Shoes,1,708.5,0.1,Tiruppur,Store,Credit Card,63,3.7,637.65,2026-04
+RET00459,2026-03-10,Beauty,Sunscreen,4,685.01,0.0,Madurai,Store,Net Banking,55,3.3,2740.04,2026-03
+RET00460,2026-08-10,Home & Kitchen,Cookware Set,3,4311.03,0.0,Trichy,Online,UPI,39,3.5,12933.09,2026-08
+RET00461,2026-03-05,Clothing,T-Shirt,4,1878.31,0.0,Chennai,Store,UPI,65,3.3,7513.24,2026-03
+RET00462,2026-01-02,Home & Kitchen,Mixer,5,2678.63,0.1,Tiruppur,Store,UPI,27,3.6,12053.84,2026-01
+RET00463,2026-08-08,Clothing,Jacket,3,2423.2,0.0,Madurai,Store,UPI,39,4.5,7269.6,2026-08
+RET00464,2026-06-17,Beauty,Lipstick,2,930.85,0.1,Chennai,Store,UPI,65,5.0,1675.53,2026-06
+RET00465,2026-05-20,Clothing,T-Shirt,3,2659.1,0.05,Coimbatore,Online,Credit Card,53,4.1,7578.43,2026-05
+RET00466,2026-02-11,Electronics,Smart Watch,3,1915.84,0.2,Trichy,Online,Credit Card,39,3.4,4598.02,2026-02
+RET00467,2026-03-15,Electronics,Bluetooth Speaker,3,7990.907499999999,0.0,Trichy,Store,Credit Card,19,3.3,23972.72,2026-03
+RET00468,2026-05-02,Beauty,Sunscreen,5,523.69,0.1,Chennai,Online,UPI,33,3.8,2356.61,2026-05
+RET00469,2026-04-28,Sports,Running Shoes,1,4062.5,0.1,Trichy,Online,Debit Card,50,5.0,3656.25,2026-04
+RET00470,2026-07-10,Clothing,Jacket,2,1927.68,0.2,Coimbatore,Online,Cash,33,3.9,3084.29,2026-07
+RET00471,2026-05-25,Electronics,Wireless Earbuds,3,5330.24,0.1,Salem,Store,Credit Card,64,4.4,14391.65,2026-05
+RET00472,2026-05-11,Electronics,Wireless Earbuds,5,1371.99,0.1,Thanjavur,Store,Credit Card,28,3.8,6173.96,2026-05
+RET00473,2026-03-29,Clothing,Jacket,1,1263.01,0.15,Madurai,Online,Credit Card,62,4.7,1073.56,2026-03
+RET00474,2026-01-18,Home & Kitchen,Mixer,2,1577.97,0.0,Salem,Online,Credit Card,25,4.4,3155.94,2026-01
+RET00475,2026-05-16,Sports,Football,4,2161.46,0.0,Salem,Online,Credit Card,27,4.6,8645.84,2026-05
+RET00476,2026-02-08,Electronics,Bluetooth Speaker,3,2143.25,0.2,Salem,Store,Credit Card,44,4.2,5143.8,2026-02
+RET00477,2026-09-20,Sports,Running Shoes,5,4183.6,0.0,Coimbatore,Online,Debit Card,54,4.4,20918.0,2026-09
+RET00478,2026-08-30,Clothing,Jacket,4,824.31,0.05,Salem,Store,Credit Card,40,5.0,3132.38,2026-08
+RET00479,2026-03-26,Sports,Yoga Mat,3,3606.37,0.05,Trichy,Store,UPI,63,4.6,10278.15,2026-03
+RET00480,2026-06-21,Beauty,Lipstick,3,689.47,0.05,Chennai,Online,Credit Card,36,3.4,1964.99,2026-06
+RET00481,2026-08-01,Clothing,Jacket,2,1473.14,0.1,Salem,Online,Debit Card,30,5.0,2651.65,2026-08
+RET00482,2026-02-22,Home & Kitchen,Bedsheet,4,1012.05,0.2,Trichy,Online,Credit Card,42,3.3,3238.56,2026-02
+RET00483,2026-03-07,Electronics,Smart Watch,5,6258.18,0.05,Trichy,Online,Credit Card,29,3.1,29726.36,2026-03
+RET00484,2026-03-25,Electronics,Smart Watch,3,7990.907499999999,0.0,Madurai,Online,UPI,51,4.7,23972.72,2026-03
+RET00485,2026-09-11,Sports,Yoga Mat,3,3583.34,0.15,Chennai,Online,Debit Card,47,3.2,9137.52,2026-09
+RET00486,2026-02-25,Clothing,T-Shirt,2,1264.27,0.1,Chennai,Online,Credit Card,34,4.3,2275.69,2026-02
+RET00487,2026-01-25,Home & Kitchen,Bedsheet,3,842.1,0.05,Tiruppur,Online,Credit Card,36,5.0,2399.98,2026-01
+RET00488,2026-04-09,Clothing,Jeans,3,1502.96,0.0,Tiruppur,Online,Debit Card,52,5.0,4508.88,2026-04
+RET00489,2026-03-17,Home & Kitchen,Mixer,1,3550.34,0.05,Salem,Store,Credit Card,50,4.8,3372.82,2026-03
+RET00490,2026-02-22,Clothing,Jacket,2,1013.06,0.1,Trichy,Online,Cash,33,2.4,1823.51,2026-02
+RET00491,2026-09-25,Home & Kitchen,Mixer,1,1202.89,0.15,Madurai,Store,UPI,28,3.6,1022.46,2026-09
+RET00492,2026-05-22,Sports,Running Shoes,3,927.57,0.1,Chennai,Store,Cash,18,5.0,2504.44,2026-05
+RET00493,2026-02-08,Home & Kitchen,Bedsheet,3,2452.73,0.0,Madurai,Store,Cash,40,3.4,7358.19,2026-02
+RET00494,2026-07-03,Sports,Cricket Bat,2,4900.7,0.05,Tiruppur,Online,Debit Card,35,3.6,9311.33,2026-07
+RET00495,2026-09-05,Clothing,Kurti,3,1212.62,0.0,Thanjavur,Online,UPI,56,3.8,3637.86,2026-09
+RET00496,2026-07-18,Clothing,Jeans,1,2047.67,0.05,Salem,Store,UPI,20,4.0,1945.29,2026-07
+RET00497,2026-01-23,Clothing,T-Shirt,4,2465.45,0.0,Tiruppur,Online,UPI,25,4.6,9861.8,2026-01
+RET00498,2026-01-22,Clothing,Jeans,3,912.84,0.15,Salem,Online,UPI,60,4.7,2327.74,2026-01
+RET00499,2026-08-05,Electronics,Smart Watch,5,926.16,0.0,Tiruppur,Online,Net Banking,38,2.9,4630.8,2026-08
+RET00500,2026-01-05,Electronics,Smart Watch,5,6092.48,0.0,Chennai,Store,UPI,51,4.8,30462.4,2026-01
+RET00501,2026-03-04,Home & Kitchen,Bedsheet,5,3685.23,0.0,Chennai,Online,UPI,42,4.3,18426.15,2026-03
+RET00502,2026-03-14,Beauty,Lipstick,2,733.68,0.0,Tiruppur,Online,Debit Card,26,4.5,1467.36,2026-03
+RET00503,2026-01-11,Clothing,T-Shirt,1,1104.94,0.05,Chennai,Store,Debit Card,29,4.4,1049.69,2026-01
+RET00504,2026-09-21,Home & Kitchen,Cookware Set,5,4496.06,0.15,Salem,Online,UPI,46,4.0,19108.26,2026-09
+RET00505,2026-09-25,Electronics,Wireless Earbuds,3,5927.12,0.1,Madurai,Online,UPI,19,3.8,16003.22,2026-09
+RET00506,2026-03-08,Beauty,Face Wash,2,789.62,0.0,Madurai,Online,Debit Card,53,4.4,1579.24,2026-03
+RET00507,2026-03-12,Clothing,Kurti,4,2065.32,0.0,Thanjavur,Online,Debit Card,18,3.4,8261.28,2026-03
+RET00508,2026-01-07,Beauty,Lipstick,2,410.16,0.0,Tiruppur,Store,Debit Card,57,3.2,820.32,2026-01
+RET00509,2026-05-01,Beauty,Sunscreen,5,789.03,0.1,Chennai,Online,UPI,33,4.9,3550.64,2026-05
+RET00510,2026-09-21,Home & Kitchen,Table Lamp,5,3395.17,0.1,Coimbatore,Online,Debit Card,56,4.2,15278.26,2026-09
+RET00511,2026-08-13,Electronics,Wireless Earbuds,2,4661.14,0.2,Tiruppur,Store,Debit Card,26,3.9,7457.82,2026-08
+RET00512,2026-07-08,Beauty,Face Wash,2,1583.19,0.05,Chennai,Online,Credit Card,18,2.8,3008.06,2026-07
+RET00513,2026-03-20,Clothing,Jacket,4,2181.56,0.15,Trichy,Store,UPI,36,3.4,7417.3,2026-03
+RET00514,2026-09-09,Electronics,Wireless Earbuds,2,7990.907499999999,0.0,Salem,Online,Debit Card,32,4.5,15981.81,2026-09
+RET00515,2026-05-22,Clothing,Jeans,3,1144.1,0.1,Trichy,Online,Net Banking,59,2.6,3089.07,2026-05
+RET00516,2026-07-15,Home & Kitchen,Table Lamp,4,3840.79,0.1,Chennai,Online,UPI,40,4.0,13826.84,2026-07
+RET00517,2026-05-09,Clothing,Jeans,2,2592.45,0.0,Coimbatore,Online,Net Banking,33,2.6,5184.9,2026-05
+RET00518,2026-08-07,Electronics,Smart Watch,5,983.85,0.15,Coimbatore,Store,Credit Card,27,3.5,4181.36,2026-08
+RET00519,2026-04-05,Electronics,Power Bank,4,2102.15,0.0,Thanjavur,Online,Credit Card,36,4.6,8408.6,2026-04
+RET00520,2026-04-20,Clothing,T-Shirt,3,1843.75,0.15,Coimbatore,Store,UPI,35,3.9,4701.56,2026-04
+RET00521,2026-01-19,Electronics,Smart Watch,5,5481.84,0.2,Chennai,Store,Credit Card,23,4.5,21927.36,2026-01
+RET00522,2026-01-29,Home & Kitchen,Cookware Set,3,3972.76,0.05,Coimbatore,Online,Cash,33,3.6,11322.37,2026-01
+RET00523,2026-02-03,Home & Kitchen,Bedsheet,5,2964.56,0.1,Coimbatore,Online,Debit Card,51,3.8,13340.52,2026-02
+RET00524,2026-07-31,Home & Kitchen,Table Lamp,1,4335.18,0.0,Thanjavur,Store,Credit Card,22,3.8,4335.18,2026-07
+RET00525,2026-04-23,Clothing,Jeans,4,1097.9,0.1,Salem,Store,UPI,56,3.4,3952.44,2026-04
+RET00526,2026-06-28,Clothing,Kurti,5,1825.18,0.1,Chennai,Online,Debit Card,32,3.6,8213.31,2026-06
+RET00527,2026-06-07,Clothing,Jeans,5,906.21,0.15,Tiruppur,Store,UPI,62,3.8,3851.39,2026-06
+RET00528,2026-09-21,Electronics,Bluetooth Speaker,1,7990.907499999999,0.1,Coimbatore,Online,UPI,33,3.8,7191.82,2026-09
+RET00529,2026-07-25,Sports,Running Shoes,4,4530.86,0.0,Thanjavur,Store,UPI,27,5.0,18123.44,2026-07
+RET00530,2026-05-19,Electronics,Wireless Earbuds,3,3382.7,0.15,Salem,Online,Credit Card,36,2.9,8625.88,2026-05
+RET00531,2026-08-18,Clothing,Jacket,1,1825.75,0.1,Madurai,Store,UPI,58,4.1,1643.18,2026-08
+RET00532,2026-09-25,Sports,Yoga Mat,2,4174.81,0.05,Thanjavur,Online,UPI,22,4.6,7932.14,2026-09
+RET00533,2026-02-20,Home & Kitchen,Bedsheet,2,2659.15,0.0,Chennai,Store,Debit Card,64,4.3,5318.3,2026-02
+RET00534,2026-04-24,Home & Kitchen,Bedsheet,4,3770.25,0.0,Thanjavur,Store,Credit Card,20,3.1,15081.0,2026-04
+RET00535,2026-06-26,Clothing,T-Shirt,3,2699.87,0.05,Chennai,Online,UPI,54,3.0,7694.63,2026-06
+RET00536,2026-02-08,Clothing,Jeans,3,1374.11,0.0,Coimbatore,Store,Credit Card,22,3.8,4122.33,2026-02
+RET00537,2026-04-10,Clothing,Kurti,4,1395.75,0.1,Salem,Online,Credit Card,45,4.4,5024.7,2026-04
+RET00538,2026-02-13,Clothing,Jacket,4,2357.67,0.15,Salem,Store,Credit Card,45,4.4,8016.08,2026-02
+RET00539,2026-03-10,Home & Kitchen,Table Lamp,3,3453.62,0.1,Trichy,Store,Debit Card,55,4.1,9324.77,2026-03
+RET00540,2026-06-16,Home & Kitchen,Bedsheet,2,3365.18,0.1,Tiruppur,Online,Net Banking,18,3.9,6057.32,2026-06
+RET00541,2026-03-25,Electronics,Smart Watch,5,6973.96,0.15,Coimbatore,Online,Credit Card,28,3.4,29639.33,2026-03
+RET00542,2026-09-24,Clothing,T-Shirt,5,1896.9,0.0,Madurai,Online,Cash,33,4.1,9484.5,2026-09
+RET00543,2026-03-07,Home & Kitchen,Mixer,1,2106.2,0.1,Thanjavur,Store,Debit Card,39,3.4,1895.58,2026-03
+RET00544,2026-02-03,Home & Kitchen,Mixer,4,2539.44,0.1,Thanjavur,Online,UPI,32,4.2,9141.98,2026-02
+RET00545,2026-05-04,Home & Kitchen,Bedsheet,3,4877.13,0.1,Coimbatore,Online,Credit Card,28,3.0,13168.25,2026-05
+RET00546,2026-01-20,Home & Kitchen,Table Lamp,3,720.61,0.2,Madurai,Store,UPI,28,4.0,1729.46,2026-01
+RET00547,2026-02-26,Home & Kitchen,Cookware Set,1,3525.12,0.05,Thanjavur,Store,Debit Card,19,3.5,3348.86,2026-02
+RET00548,2026-07-06,Beauty,Face Wash,4,1256.56,0.1,Thanjavur,Online,UPI,51,4.1,4523.62,2026-07
+RET00549,2026-07-10,Sports,Cricket Bat,2,2223.79,0.05,Madurai,Online,Cash,27,4.5,4225.2,2026-07
+RET00550,2026-02-03,Electronics,Bluetooth Speaker,1,2051.28,0.15,Coimbatore,Online,Cash,38,3.6,1743.59,2026-02
+RET00551,2026-01-13,Beauty,Sunscreen,5,1456.33,0.1,Salem,Online,Net Banking,44,4.2,6553.48,2026-01
+RET00552,2026-06-03,Home & Kitchen,Cookware Set,3,1356.3,0.0,Salem,Online,Credit Card,46,4.2,4068.9,2026-06
+RET00553,2026-08-10,Beauty,Face Wash,4,1371.97,0.15,Tiruppur,Store,UPI,28,3.6,4664.7,2026-08
+RET00554,2026-03-24,Clothing,T-Shirt,3,2644.17,0.05,Tiruppur,Online,Cash,56,4.0,7535.88,2026-03
+RET00555,2026-03-04,Sports,Yoga Mat,5,4598.16,0.0,Coimbatore,Online,Cash,62,3.2,22990.8,2026-03
+RET00556,2026-04-11,Electronics,Wireless Earbuds,5,2984.87,0.0,Salem,Online,Debit Card,28,3.7,14924.35,2026-04
+RET00557,2026-04-28,Clothing,T-Shirt,4,1048.47,0.1,Trichy,Store,Debit Card,42,4.1,3774.49,2026-04
+RET00558,2026-04-23,Home & Kitchen,Table Lamp,1,2687.03,0.1,Salem,Store,UPI,49,4.3,2418.33,2026-04
+RET00559,2026-01-23,Electronics,Bluetooth Speaker,2,5558.11,0.0,Coimbatore,Online,UPI,29,5.0,11116.22,2026-01
+RET00560,2026-03-25,Home & Kitchen,Cookware Set,1,453.84,0.2,Coimbatore,Online,Debit Card,44,5.0,363.07,2026-03
+RET00561,2026-06-27,Home & Kitchen,Cookware Set,4,3330.74,0.0,Chennai,Online,Debit Card,39,4.7,13322.96,2026-06
+RET00562,2026-01-17,Electronics,Wireless Earbuds,2,1564.46,0.1,Salem,Online,Net Banking,52,5.0,2816.03,2026-01
+RET00563,2026-08-01,Clothing,Kurti,5,2000.25,0.05,Madurai,Online,Cash,38,3.9,9501.19,2026-08
+RET00564,2026-04-18,Home & Kitchen,Cookware Set,4,1086.87,0.0,Chennai,Store,Debit Card,42,3.5,4347.48,2026-04
+RET00565,2026-05-05,Sports,Football,3,1726.91,0.0,Chennai,Online,Debit Card,49,3.3,5180.73,2026-05
+RET00566,2026-07-15,Electronics,Smart Watch,2,7990.907499999999,0.0,Madurai,Store,UPI,65,4.9,15981.81,2026-07
+RET00567,2026-07-16,Clothing,T-Shirt,5,1467.58,0.05,Tiruppur,Online,UPI,36,3.8,6971.0,2026-07
+RET00568,2026-05-23,Home & Kitchen,Mixer,5,2519.97,0.05,Tiruppur,Store,UPI,53,4.0,11969.86,2026-05
+RET00569,2026-01-27,Clothing,Jeans,5,2489.6,0.05,Coimbatore,Online,Cash,38,4.4,11825.6,2026-01
+RET00570,2026-05-02,Beauty,Face Wash,4,1180.96,0.05,Coimbatore,Online,Net Banking,33,4.7,4487.65,2026-05
+RET00571,2026-08-29,Electronics,Power Bank,2,7990.907499999999,0.1,Trichy,Online,UPI,65,4.4,14383.63,2026-08
+RET00572,2026-07-15,Electronics,Smart Watch,2,4698.83,0.15,Trichy,Store,Cash,19,3.9,7988.01,2026-07
+RET00573,2026-07-18,Electronics,Bluetooth Speaker,5,7361.58,0.1,Madurai,Online,Cash,23,3.4,33127.11,2026-07
+RET00574,2026-03-03,Beauty,Shampoo,1,368.66,0.1,Coimbatore,Store,Debit Card,46,5.0,331.79,2026-03
+RET00575,2026-06-21,Home & Kitchen,Cookware Set,2,3256.83,0.2,Madurai,Store,Cash,49,3.6,5210.93,2026-06
+RET00576,2026-03-19,Electronics,Wireless Earbuds,5,3945.53,0.0,Madurai,Online,UPI,49,4.6,19727.65,2026-03
+RET00577,2026-02-24,Electronics,Bluetooth Speaker,1,4688.34,0.1,Tiruppur,Store,Debit Card,35,4.2,4219.51,2026-02
+RET00578,2026-07-17,Home & Kitchen,Cookware Set,5,4901.25,0.1,Coimbatore,Online,UPI,65,4.2,22055.62,2026-07
+RET00579,2026-07-26,Beauty,Sunscreen,4,382.57,0.1,Coimbatore,Store,UPI,44,4.8,1377.25,2026-07
+RET00580,2026-04-28,Beauty,Face Wash,3,1184.14,0.0,Madurai,Store,UPI,36,3.7,3552.42,2026-04
+RET00581,2026-04-05,Electronics,Power Bank,5,6397.66,0.0,Tiruppur,Store,UPI,30,3.5,31988.3,2026-04
+RET00582,2026-02-15,Clothing,Jeans,2,1909.85,0.1,Madurai,Store,Credit Card,53,4.3,3437.73,2026-02
+RET00583,2026-09-25,Electronics,Power Bank,3,3314.21,0.05,Tiruppur,Store,UPI,49,4.1,9445.5,2026-09
+RET00584,2026-01-02,Beauty,Face Wash,4,673.74,0.05,Tiruppur,Store,Credit Card,44,4.2,2560.21,2026-01
+RET00585,2026-08-02,Clothing,Jacket,4,1154.87,0.0,Madurai,Store,Debit Card,55,2.8,4619.48,2026-08
+RET00586,2026-06-24,Electronics,Bluetooth Speaker,1,2025.48,0.2,Trichy,Online,UPI,36,3.5,1620.38,2026-06
+RET00587,2026-03-14,Sports,Cricket Bat,3,3887.67,0.15,Thanjavur,Online,Net Banking,64,4.7,9913.56,2026-03
+RET00588,2026-01-29,Clothing,T-Shirt,2,2927.44,0.1,Tiruppur,Online,Net Banking,56,3.1,5269.39,2026-01
+RET00589,2026-03-02,Clothing,T-Shirt,5,1518.32,0.0,Chennai,Online,Credit Card,26,4.8,7591.6,2026-03
+RET00590,2026-02-17,Clothing,Jeans,4,2692.45,0.1,Coimbatore,Online,UPI,52,4.8,9692.82,2026-02
+RET00591,2026-07-21,Home & Kitchen,Cookware Set,1,660.02,0.0,Chennai,Store,Net Banking,61,3.5,660.02,2026-07
+RET00592,2026-09-16,Beauty,Sunscreen,3,380.58,0.1,Thanjavur,Online,Credit Card,46,4.8,1027.57,2026-09
+RET00593,2026-02-10,Electronics,Smart Watch,3,4415.08,0.0,Madurai,Store,Credit Card,56,4.5,13245.24,2026-02
+RET00594,2026-02-26,Beauty,Lipstick,1,322.71,0.15,Thanjavur,Online,Credit Card,56,3.6,274.3,2026-02
+RET00595,2026-03-22,Home & Kitchen,Mixer,4,2098.17,0.2,Tiruppur,Online,UPI,20,3.6,6714.14,2026-03
+RET00596,2026-03-24,Clothing,Jeans,1,401.73,0.0,Trichy,Online,Net Banking,20,3.8,401.73,2026-03
+RET00597,2026-08-10,Sports,Football,2,736.9,0.1,Madurai,Store,Credit Card,51,4.6,1326.42,2026-08
+RET00598,2026-08-11,Clothing,Jeans,1,853.88,0.15,Coimbatore,Online,UPI,58,4.0,725.8,2026-08
+RET00599,2026-01-02,Electronics,Bluetooth Speaker,3,5435.32,0.2,Tiruppur,Online,UPI,24,5.0,13044.77,2026-01
+RET00600,2026-04-05,Clothing,T-Shirt,2,1041.56,0.15,Salem,Online,Credit Card,31,3.8,1770.65,2026-04
+RET00601,2026-09-18,Clothing,T-Shirt,5,2777.05,0.1,Trichy,Store,UPI,23,4.1,12496.72,2026-09
+RET00602,2026-09-20,Electronics,Wireless Earbuds,4,5557.11,0.0,Chennai,Online,Debit Card,43,3.1,22228.44,2026-09
+RET00603,2026-05-07,Clothing,T-Shirt,4,778.23,0.15,Madurai,Online,Credit Card,21,4.3,2645.98,2026-05
+RET00604,2026-01-31,Electronics,Bluetooth Speaker,2,1310.76,0.0,Coimbatore,Online,Debit Card,39,4.5,2621.52,2026-01
+RET00605,2026-02-12,Home & Kitchen,Bedsheet,3,3117.46,0.1,Thanjavur,Store,UPI,48,4.3,8417.14,2026-02
+RET00606,2026-05-22,Home & Kitchen,Cookware Set,3,4277.95,0.0,Chennai,Store,Credit Card,60,4.9,12833.85,2026-05
+RET00607,2026-03-22,Clothing,T-Shirt,5,2935.56,0.0,Coimbatore,Store,Cash,44,4.1,14677.8,2026-03
+RET00608,2026-05-10,Beauty,Face Wash,2,1163.25,0.0,Trichy,Online,UPI,55,5.0,2326.5,2026-05
+RET00609,2026-05-17,Home & Kitchen,Cookware Set,2,4118.04,0.0,Madurai,Store,Credit Card,62,4.5,8236.08,2026-05
+RET00610,2026-03-30,Clothing,Jacket,4,2452.57,0.1,Thanjavur,Online,Net Banking,49,4.6,8829.25,2026-03
+RET00611,2026-04-03,Beauty,Shampoo,2,662.65,0.05,Thanjavur,Online,UPI,29,3.6,1259.03,2026-04
+RET00612,2026-02-24,Home & Kitchen,Table Lamp,1,4955.35,0.0,Coimbatore,Online,Credit Card,29,4.9,4955.35,2026-02
+RET00613,2026-07-06,Home & Kitchen,Table Lamp,5,4678.81,0.0,Thanjavur,Store,UPI,48,3.2,23394.05,2026-07
+RET00614,2026-03-13,Electronics,Bluetooth Speaker,2,2469.23,0.05,Thanjavur,Online,Credit Card,56,4.5,4691.54,2026-03
+RET00615,2026-08-14,Sports,Football,1,1238.54,0.0,Trichy,Online,Credit Card,34,3.4,1238.54,2026-08
+RET00616,2026-07-16,Sports,Cricket Bat,3,2817.35,0.1,Trichy,Online,Debit Card,32,4.1,7606.84,2026-07
+RET00617,2026-09-07,Clothing,Jacket,5,2685.58,0.15,Chennai,Online,UPI,61,3.8,11413.72,2026-09
+RET00618,2026-09-06,Clothing,Jeans,3,712.43,0.15,Thanjavur,Online,Credit Card,41,5.0,1816.7,2026-09
+RET00619,2026-04-03,Electronics,Smart Watch,4,6787.12,0.15,Coimbatore,Store,UPI,57,4.4,23076.21,2026-04
+RET00620,2026-07-08,Clothing,Jacket,3,2013.68,0.05,Coimbatore,Online,Credit Card,29,4.7,5738.99,2026-07
+RET00621,2026-01-17,Home & Kitchen,Bedsheet,5,1930.88,0.0,Salem,Store,Debit Card,42,2.7,9654.4,2026-01
+RET00622,2026-01-10,Sports,Running Shoes,1,4440.52,0.0,Coimbatore,Online,Credit Card,35,4.4,4440.52,2026-01
+RET00623,2026-03-07,Electronics,Power Bank,1,6455.51,0.05,Chennai,Store,Debit Card,37,3.9,6132.73,2026-03
+RET00624,2026-07-22,Beauty,Face Wash,2,1152.07,0.0,Madurai,Store,Net Banking,48,4.1,2304.14,2026-07
+RET00625,2026-02-11,Electronics,Bluetooth Speaker,3,1532.57,0.15,Salem,Store,Cash,27,4.5,3908.05,2026-02
+RET00626,2026-09-11,Clothing,Jeans,1,618.17,0.0,Trichy,Online,Debit Card,26,3.7,618.17,2026-09
+RET00627,2026-09-25,Beauty,Sunscreen,3,1647.5,0.0,Chennai,Online,UPI,21,4.8,4942.5,2026-09
+RET00628,2026-07-26,Electronics,Wireless Earbuds,5,7990.907499999999,0.1,Salem,Store,Net Banking,28,4.4,35959.08,2026-07
+RET00629,2026-04-13,Beauty,Sunscreen,2,1130.95,0.1,Coimbatore,Online,UPI,40,4.7,2035.71,2026-04
+RET00630,2026-06-27,Beauty,Lipstick,3,1205.45,0.2,Thanjavur,Store,Cash,32,3.3,2893.08,2026-06
+RET00631,2026-08-13,Beauty,Shampoo,4,421.85,0.15,Trichy,Store,Debit Card,46,3.8,1434.29,2026-08
+RET00632,2026-06-15,Electronics,Power Bank,4,3300.4,0.1,Trichy,Online,Credit Card,53,3.2,11881.44,2026-06
+RET00633,2026-05-07,Clothing,Kurti,4,1449.28,0.0,Chennai,Online,Net Banking,64,2.9,5797.12,2026-05
+RET00634,2026-04-23,Electronics,Power Bank,5,7990.907499999999,0.05,Salem,Online,UPI,22,3.7,37956.81,2026-04
+RET00635,2026-01-19,Clothing,Kurti,4,1523.14,0.0,Thanjavur,Store,UPI,31,3.0,6092.56,2026-01
+RET00636,2026-04-05,Sports,Cricket Bat,5,3532.21,0.1,Madurai,Online,UPI,19,3.3,15894.94,2026-04
+RET00637,2026-06-28,Home & Kitchen,Bedsheet,3,4329.59,0.0,Thanjavur,Online,Debit Card,37,3.7,12988.77,2026-06
+RET00638,2026-08-07,Clothing,Jeans,5,640.97,0.15,Chennai,Store,UPI,37,4.2,2724.12,2026-08
+RET00639,2026-08-14,Electronics,Wireless Earbuds,2,7904.5,0.15,Salem,Store,Net Banking,22,2.8,13437.65,2026-08
+RET00640,2026-02-21,Beauty,Shampoo,2,1761.05,0.1,Trichy,Online,UPI,34,3.2,3169.89,2026-02
+RET00641,2026-04-09,Clothing,Jeans,3,2199.74,0.0,Madurai,Store,Credit Card,50,3.6,6599.22,2026-04
+RET00642,2026-05-20,Beauty,Face Wash,2,519.16,0.0,Salem,Store,UPI,31,3.5,1038.32,2026-05
+RET00643,2026-08-31,Beauty,Shampoo,2,1549.82,0.15,Chennai,Store,Debit Card,19,3.7,2634.69,2026-08
+RET00644,2026-03-11,Sports,Football,4,4021.11,0.05,Trichy,Store,Debit Card,24,3.9,15280.22,2026-03
+RET00645,2026-08-13,Clothing,Jacket,3,2044.5,0.1,Thanjavur,Online,Credit Card,37,3.9,5520.15,2026-08
+RET00646,2026-08-19,Electronics,Wireless Earbuds,4,7990.907499999999,0.1,Madurai,Online,UPI,56,4.4,28767.27,2026-08
+RET00647,2026-06-07,Electronics,Bluetooth Speaker,2,6868.09,0.05,Chennai,Online,UPI,48,4.7,13049.37,2026-06
+RET00648,2026-07-07,Home & Kitchen,Bedsheet,5,552.15,0.1,Trichy,Online,Cash,55,4.2,2484.68,2026-07
+RET00649,2026-01-16,Beauty,Sunscreen,3,1380.12,0.05,Coimbatore,Online,UPI,50,4.1,3933.34,2026-01
+RET00650,2026-08-11,Clothing,Jeans,1,2692.02,0.1,Chennai,Online,Cash,24,4.3,2422.82,2026-08
+RET00651,2026-04-17,Home & Kitchen,Bedsheet,2,1757.48,0.1,Trichy,Online,UPI,28,4.0,3163.46,2026-04
+RET00652,2026-01-06,Clothing,Jeans,5,1321.61,0.0,Trichy,Online,Cash,43,4.3,6608.05,2026-01
+RET00653,2026-01-23,Home & Kitchen,Table Lamp,3,1888.55,0.05,Coimbatore,Online,Credit Card,36,3.1,5382.37,2026-01
+RET00654,2026-07-09,Home & Kitchen,Cookware Set,2,3779.24,0.1,Salem,Online,Credit Card,32,4.5,6802.63,2026-07
+RET00655,2026-08-26,Beauty,Face Wash,2,1638.65,0.1,Chennai,Online,UPI,41,4.1,2949.57,2026-08
+RET00656,2026-05-20,Clothing,Kurti,1,2473.96,0.0,Coimbatore,Online,Debit Card,32,4.8,2473.96,2026-05
+RET00657,2026-01-02,Beauty,Face Wash,4,1777.32,0.15,Tiruppur,Online,Credit Card,51,3.3,6042.89,2026-01
+RET00658,2026-05-29,Clothing,Jacket,2,2688.45,0.05,Madurai,Online,UPI,47,4.1,5108.05,2026-05
+RET00659,2026-07-21,Electronics,Wireless Earbuds,2,6256.25,0.1,Thanjavur,Store,Net Banking,19,3.6,11261.25,2026-07
+RET00660,2026-01-16,Clothing,Jeans,5,1459.02,0.1,Salem,Online,Cash,25,5.0,6565.59,2026-01
+RET00661,2026-05-21,Clothing,T-Shirt,3,1229.21,0.15,Salem,Store,UPI,27,4.4,3134.49,2026-05
+RET00662,2026-09-19,Electronics,Bluetooth Speaker,3,4003.01,0.1,Tiruppur,Online,Net Banking,19,3.5,10808.13,2026-09
+RET00663,2026-02-14,Home & Kitchen,Bedsheet,5,2983.67,0.05,Tiruppur,Store,Net Banking,56,4.3,14172.43,2026-02
+RET00664,2026-07-26,Electronics,Smart Watch,2,7643.79,0.1,Chennai,Store,UPI,63,3.6,13758.82,2026-07
+RET00665,2026-08-17,Clothing,Jacket,1,2469.97,0.05,Madurai,Store,Net Banking,56,4.2,2346.47,2026-08
+RET00666,2026-09-09,Sports,Football,3,1272.22,0.0,Thanjavur,Online,UPI,65,3.1,3816.66,2026-09
+RET00667,2026-03-04,Home & Kitchen,Mixer,4,782.26,0.1,Tiruppur,Store,Credit Card,40,4.3,2816.14,2026-03
+RET00668,2026-02-08,Sports,Yoga Mat,4,1332.48,0.05,Tiruppur,Online,UPI,29,3.2,5063.42,2026-02
+RET00669,2026-07-09,Electronics,Power Bank,5,5091.83,0.15,Thanjavur,Online,UPI,64,3.3,21640.28,2026-07
+RET00670,2026-04-05,Clothing,T-Shirt,2,2285.23,0.0,Coimbatore,Store,UPI,34,4.0,4570.46,2026-04
+RET00671,2026-05-13,Electronics,Bluetooth Speaker,1,7990.907499999999,0.05,Trichy,Store,UPI,64,4.1,7591.36,2026-05
+RET00672,2026-04-27,Home & Kitchen,Table Lamp,1,4557.54,0.1,Tiruppur,Online,UPI,19,3.9,4101.79,2026-04
+RET00673,2026-06-06,Electronics,Smart Watch,4,7159.32,0.1,Coimbatore,Online,Cash,34,3.8,25773.55,2026-06
+RET00674,2026-05-24,Clothing,Kurti,2,1885.77,0.1,Chennai,Online,Credit Card,22,4.4,3394.39,2026-05
+RET00675,2026-02-01,Home & Kitchen,Table Lamp,2,4003.19,0.05,Trichy,Store,Credit Card,33,3.4,7606.06,2026-02
+RET00676,2026-09-13,Home & Kitchen,Cookware Set,2,923.7,0.05,Salem,Online,Credit Card,52,3.3,1755.03,2026-09
+RET00677,2026-08-13,Clothing,T-Shirt,1,1953.65,0.05,Thanjavur,Online,Credit Card,37,4.4,1855.97,2026-08
+RET00678,2026-08-28,Home & Kitchen,Table Lamp,3,3157.72,0.2,Chennai,Online,Debit Card,40,4.9,7578.53,2026-08
+RET00679,2026-03-24,Electronics,Bluetooth Speaker,3,7990.907499999999,0.0,Thanjavur,Online,Debit Card,30,3.0,23972.72,2026-03
+RET00680,2026-08-12,Clothing,T-Shirt,4,2738.88,0.2,Salem,Online,Credit Card,18,3.7,8764.42,2026-08
+RET00681,2026-01-13,Electronics,Power Bank,3,2531.4,0.15,Thanjavur,Store,UPI,43,4.3,6455.07,2026-01
+RET00682,2026-07-08,Beauty,Lipstick,4,1188.45,0.0,Trichy,Store,Credit Card,38,2.8,4753.8,2026-07
+RET00683,2026-05-05,Sports,Football,5,3633.62,0.1,Trichy,Store,Credit Card,43,3.7,16351.29,2026-05
+RET00684,2026-09-02,Sports,Running Shoes,4,958.3,0.0,Trichy,Online,Debit Card,54,4.5,3833.2,2026-09
+RET00685,2026-08-28,Home & Kitchen,Bedsheet,4,2378.52,0.05,Chennai,Online,Credit Card,60,4.6,9038.38,2026-08
+RET00686,2026-06-17,Beauty,Shampoo,5,698.25,0.0,Tiruppur,Store,UPI,56,4.2,3491.25,2026-06
+RET00687,2026-07-13,Electronics,Power Bank,5,7990.907499999999,0.1,Thanjavur,Online,Debit Card,58,3.2,35959.08,2026-07
+RET00688,2026-01-24,Electronics,Smart Watch,3,5639.88,0.15,Madurai,Online,Net Banking,51,3.3,14381.69,2026-01
+RET00689,2026-07-14,Beauty,Sunscreen,1,1189.01,0.2,Tiruppur,Online,Net Banking,22,4.2,951.21,2026-07
+RET00690,2026-05-08,Home & Kitchen,Table Lamp,1,4337.65,0.1,Chennai,Online,Debit Card,21,3.9,3903.88,2026-05
+RET00691,2026-09-29,Home & Kitchen,Cookware Set,1,2674.24,0.2,Salem,Store,UPI,55,3.8,2139.39,2026-09
+RET00692,2026-08-05,Clothing,Kurti,4,2970.1,0.0,Trichy,Online,UPI,42,5.0,11880.4,2026-08
+RET00693,2026-08-19,Electronics,Power Bank,2,6688.78,0.05,Coimbatore,Store,UPI,33,5.0,12708.68,2026-08
+RET00694,2026-04-14,Clothing,Jacket,3,1282.52,0.1,Salem,Store,Cash,35,3.7,3462.8,2026-04
+RET00695,2026-03-05,Sports,Cricket Bat,2,3618.91,0.2,Thanjavur,Store,Cash,32,5.0,5790.26,2026-03
+RET00696,2026-05-03,Beauty,Face Wash,1,1598.29,0.0,Salem,Online,UPI,26,4.0,1598.29,2026-05
+RET00697,2026-01-02,Sports,Cricket Bat,4,3208.65,0.1,Thanjavur,Online,Debit Card,46,3.1,11551.14,2026-01
+RET00698,2026-08-07,Beauty,Shampoo,5,1702.94,0.0,Tiruppur,Store,Cash,64,5.0,8514.7,2026-08
+RET00699,2026-09-13,Clothing,Kurti,4,1051.3,0.1,Chennai,Online,Credit Card,41,3.4,3784.68,2026-09
+RET00700,2026-04-28,Home & Kitchen,Mixer,1,3091.01,0.1,Madurai,Online,UPI,58,3.7,2781.91,2026-04
+RET00701,2026-05-30,Home & Kitchen,Table Lamp,5,3599.59,0.0,Salem,Online,Debit Card,46,4.2,17997.95,2026-05
+RET00702,2026-09-24,Sports,Running Shoes,3,1627.93,0.05,Tiruppur,Store,UPI,43,4.8,4639.6,2026-09
+RET00703,2026-02-11,Home & Kitchen,Cookware Set,4,920.79,0.0,Coimbatore,Online,Debit Card,49,3.5,3683.16,2026-02
+RET00704,2026-09-25,Electronics,Power Bank,1,6922.45,0.0,Coimbatore,Online,UPI,49,3.9,6922.45,2026-09
+RET00705,2026-05-23,Clothing,Jacket,5,2647.36,0.1,Chennai,Store,Cash,62,5.0,11913.12,2026-05
+RET00706,2026-08-24,Electronics,Smart Watch,2,7190.96,0.05,Madurai,Store,UPI,38,3.9,13662.82,2026-08
+RET00707,2026-01-27,Home & Kitchen,Cookware Set,4,2116.46,0.0,Thanjavur,Store,Credit Card,52,3.0,8465.84,2026-01
+RET00708,2026-08-23,Electronics,Bluetooth Speaker,4,1130.45,0.1,Coimbatore,Online,Debit Card,23,4.3,4069.62,2026-08
+RET00709,2026-08-24,Clothing,Jacket,2,2715.2,0.1,Coimbatore,Online,UPI,45,4.7,4887.36,2026-08
+RET00710,2026-03-28,Clothing,Kurti,1,674.53,0.05,Thanjavur,Online,Credit Card,55,4.1,640.8,2026-03
+RET00711,2026-06-16,Electronics,Bluetooth Speaker,2,4875.74,0.15,Trichy,Online,UPI,20,3.7,8288.76,2026-06
+RET00712,2026-06-13,Electronics,Wireless Earbuds,1,7990.907499999999,0.05,Chennai,Online,Credit Card,23,4.4,7591.36,2026-06
+RET00713,2026-07-16,Clothing,Jeans,1,2862.35,0.05,Trichy,Online,UPI,23,3.4,2719.23,2026-07
+RET00714,2026-08-12,Electronics,Power Bank,3,5489.94,0.0,Chennai,Store,Debit Card,57,3.6,16469.82,2026-08
+RET00715,2026-06-25,Beauty,Face Wash,2,1556.97,0.1,Trichy,Online,UPI,36,4.0,2802.55,2026-06
+RET00716,2026-05-09,Clothing,Kurti,2,1997.99,0.0,Chennai,Online,Debit Card,22,4.8,3995.98,2026-05
+RET00717,2026-04-30,Clothing,Jeans,1,1760.55,0.0,Coimbatore,Online,Debit Card,44,3.8,1760.55,2026-04
+RET00718,2026-04-16,Sports,Cricket Bat,3,2834.17,0.0,Trichy,Online,UPI,18,4.1,8502.51,2026-04
+RET00719,2026-01-29,Electronics,Power Bank,5,1093.04,0.0,Tiruppur,Online,Debit Card,50,4.3,5465.2,2026-01
+RET00720,2026-05-09,Clothing,Jacket,3,1076.39,0.1,Thanjavur,Online,UPI,20,3.2,2906.25,2026-05
+RET00721,2026-01-29,Beauty,Face Wash,4,681.85,0.05,Salem,Online,UPI,43,5.0,2591.03,2026-01
+RET00722,2026-02-03,Clothing,Jeans,1,1800.04,0.15,Coimbatore,Store,Debit Card,61,3.5,1530.03,2026-02
+RET00723,2026-07-04,Home & Kitchen,Cookware Set,4,4870.6,0.0,Thanjavur,Store,UPI,18,4.4,19482.4,2026-07
+RET00724,2026-06-03,Sports,Cricket Bat,3,4226.85,0.15,Tiruppur,Online,UPI,25,3.8,10778.47,2026-06
+RET00725,2026-07-07,Electronics,Smart Watch,3,3406.82,0.0,Chennai,Store,UPI,27,4.0,10220.46,2026-07
+RET00726,2026-09-05,Clothing,Jeans,5,2860.82,0.1,Madurai,Store,UPI,44,3.7,12873.69,2026-09
+RET00727,2026-07-10,Beauty,Face Wash,1,858.59,0.15,Tiruppur,Online,Net Banking,20,3.6,729.8,2026-07
+RET00728,2026-06-03,Electronics,Wireless Earbuds,4,4644.91,0.05,Tiruppur,Store,Cash,61,4.9,17650.66,2026-06
+RET00729,2026-05-11,Sports,Running Shoes,2,4123.19,0.2,Thanjavur,Online,Credit Card,30,3.3,6597.1,2026-05
+RET00730,2026-01-01,Electronics,Wireless Earbuds,5,2655.93,0.1,Thanjavur,Online,UPI,35,2.6,11951.68,2026-01
+RET00731,2026-04-23,Beauty,Shampoo,4,283.45,0.0,Salem,Online,Net Banking,65,4.1,1133.8,2026-04
+RET00732,2026-09-05,Clothing,T-Shirt,2,833.39,0.2,Madurai,Online,Cash,22,2.6,1333.42,2026-09
+RET00733,2026-05-18,Sports,Football,4,1143.15,0.1,Tiruppur,Store,UPI,27,3.8,4115.34,2026-05
+RET00734,2026-01-23,Electronics,Smart Watch,4,1740.42,0.05,Coimbatore,Online,Credit Card,54,3.3,6613.6,2026-01
+RET00735,2026-05-21,Home & Kitchen,Mixer,1,1051.55,0.0,Salem,Online,UPI,65,3.2,1051.55,2026-05
+RET00736,2026-07-26,Electronics,Bluetooth Speaker,4,2207.99,0.0,Chennai,Online,UPI,25,3.3,8831.96,2026-07
+RET00737,2026-05-31,Beauty,Shampoo,2,877.74,0.1,Salem,Store,Debit Card,45,4.9,1579.93,2026-05
+RET00738,2026-04-27,Electronics,Power Bank,4,7256.97,0.15,Madurai,Store,Net Banking,20,3.7,24673.7,2026-04
+RET00739,2026-02-26,Clothing,Kurti,4,1082.12,0.05,Trichy,Online,Cash,22,3.6,4112.06,2026-02
+RET00740,2026-05-12,Beauty,Sunscreen,5,809.72,0.05,Salem,Store,UPI,54,3.4,3846.17,2026-05
+RET00741,2026-06-12,Electronics,Smart Watch,3,2322.93,0.1,Tiruppur,Online,UPI,48,5.0,6271.91,2026-06
+RET00742,2026-06-09,Beauty,Sunscreen,2,886.62,0.0,Trichy,Online,UPI,57,4.8,1773.24,2026-06
+RET00743,2026-05-22,Clothing,Jeans,4,1479.69,0.1,Thanjavur,Online,Cash,63,3.3,5326.88,2026-05
+RET00744,2026-05-01,Electronics,Smart Watch,1,2911.7,0.15,Salem,Online,Debit Card,61,4.7,2474.94,2026-05
+RET00745,2026-01-19,Electronics,Wireless Earbuds,5,7640.63,0.1,Trichy,Online,Debit Card,47,3.7,34382.84,2026-01
+RET00746,2026-05-13,Electronics,Smart Watch,1,7990.907499999999,0.1,Trichy,Online,UPI,39,3.6,7191.82,2026-05
+RET00747,2026-09-29,Sports,Yoga Mat,2,1975.7,0.0,Salem,Store,UPI,40,5.0,3951.4,2026-09
+RET00748,2026-06-26,Sports,Cricket Bat,2,3028.6,0.1,Tiruppur,Store,UPI,18,4.3,5451.48,2026-06
+RET00749,2026-05-31,Clothing,Kurti,2,1494.14,0.0,Tiruppur,Store,UPI,56,4.5,2988.28,2026-05
+RET00750,2026-06-05,Electronics,Wireless Earbuds,1,5806.29,0.1,Chennai,Online,Net Banking,33,4.2,5225.66,2026-06
+RET00751,2026-03-02,Home & Kitchen,Mixer,2,1100.8,0.1,Trichy,Online,Credit Card,20,5.0,1981.44,2026-03
+RET00752,2026-01-04,Beauty,Sunscreen,4,1617.1,0.1,Chennai,Online,Debit Card,23,3.6,5821.56,2026-01
+RET00753,2026-04-26,Home & Kitchen,Cookware Set,1,4649.66,0.0,Tiruppur,Store,UPI,56,4.6,4649.66,2026-04
+RET00754,2026-08-29,Sports,Cricket Bat,2,3018.92,0.0,Chennai,Online,UPI,34,3.9,6037.84,2026-08
+RET00755,2026-09-14,Electronics,Bluetooth Speaker,5,2526.27,0.1,Tiruppur,Online,Debit Card,49,3.1,11368.22,2026-09
+RET00756,2026-05-09,Electronics,Smart Watch,5,4543.19,0.1,Madurai,Online,UPI,60,4.7,20444.36,2026-05
+RET00757,2026-07-13,Clothing,Jeans,2,648.59,0.05,Salem,Store,Cash,29,3.5,1232.32,2026-07
+RET00758,2026-02-28,Sports,Cricket Bat,2,3116.35,0.05,Salem,Online,Net Banking,42,3.8,5921.06,2026-02
+RET00759,2026-03-18,Clothing,T-Shirt,3,1571.56,0.0,Chennai,Store,UPI,39,3.8,4714.68,2026-03
+RET00760,2026-05-16,Home & Kitchen,Table Lamp,2,2436.01,0.1,Madurai,Online,Debit Card,36,4.5,4384.82,2026-05
+RET00761,2026-03-27,Sports,Running Shoes,3,4434.56,0.0,Thanjavur,Online,Net Banking,30,4.1,13303.68,2026-03
+RET00762,2026-06-18,Clothing,Jacket,1,2029.57,0.1,Madurai,Online,UPI,29,3.4,1826.61,2026-06
+RET00763,2026-09-28,Sports,Running Shoes,3,1778.94,0.1,Chennai,Online,Net Banking,47,4.2,4803.14,2026-09
+RET00764,2026-09-24,Beauty,Lipstick,2,601.69,0.0,Tiruppur,Online,Debit Card,37,4.4,1203.38,2026-09
+RET00765,2026-07-13,Sports,Cricket Bat,5,4660.83,0.0,Coimbatore,Store,Credit Card,32,4.5,23304.15,2026-07
+RET00766,2026-02-02,Home & Kitchen,Cookware Set,3,4248.97,0.1,Chennai,Store,UPI,61,4.6,11472.22,2026-02
+RET00767,2026-08-31,Beauty,Face Wash,2,1144.58,0.0,Trichy,Store,Net Banking,53,4.4,2289.16,2026-08
+RET00768,2026-06-01,Electronics,Power Bank,3,3261.25,0.15,Chennai,Store,Net Banking,35,4.3,8316.19,2026-06
+RET00769,2026-05-11,Home & Kitchen,Cookware Set,4,1556.74,0.15,Salem,Store,Net Banking,32,3.6,5292.92,2026-05
+RET00770,2026-09-29,Electronics,Bluetooth Speaker,4,4801.26,0.1,Salem,Online,UPI,37,3.9,17284.54,2026-09
+RET00771,2026-03-20,Electronics,Bluetooth Speaker,1,5085.87,0.1,Chennai,Online,Credit Card,29,4.3,4577.28,2026-03
+RET00772,2026-03-28,Electronics,Wireless Earbuds,4,3116.37,0.2,Madurai,Online,Net Banking,24,3.8,9972.38,2026-03
+RET00773,2026-01-17,Home & Kitchen,Table Lamp,2,687.09,0.15,Tiruppur,Online,UPI,55,4.4,1168.05,2026-01
+RET00774,2026-02-17,Electronics,Bluetooth Speaker,2,5867.16,0.1,Salem,Store,Credit Card,29,4.5,10560.89,2026-02
+RET00775,2026-06-07,Clothing,Jeans,5,2210.25,0.1,Thanjavur,Online,Credit Card,41,4.5,9946.12,2026-06
+RET00776,2026-07-28,Home & Kitchen,Cookware Set,3,3324.09,0.0,Thanjavur,Online,Credit Card,27,3.3,9972.27,2026-07
+RET00777,2026-07-07,Clothing,Jacket,1,420.22,0.0,Chennai,Store,UPI,48,3.7,420.22,2026-07
+RET00778,2026-01-02,Clothing,T-Shirt,4,2328.58,0.05,Salem,Online,UPI,18,4.2,8848.6,2026-01
+RET00779,2026-06-15,Electronics,Smart Watch,2,7286.97,0.0,Thanjavur,Online,UPI,28,3.1,14573.94,2026-06
+RET00780,2026-08-29,Beauty,Sunscreen,1,1027.72,0.05,Coimbatore,Online,Credit Card,53,4.3,976.33,2026-08
+RET00781,2026-06-23,Electronics,Power Bank,5,2986.58,0.0,Madurai,Online,Credit Card,60,3.1,14932.9,2026-06
+RET00782,2026-03-08,Electronics,Bluetooth Speaker,4,5615.33,0.1,Trichy,Store,Debit Card,56,4.2,20215.19,2026-03
+RET00783,2026-03-05,Beauty,Shampoo,4,1483.32,0.1,Thanjavur,Online,Debit Card,34,4.1,5339.95,2026-03
+RET00784,2026-03-19,Beauty,Sunscreen,1,1737.81,0.1,Chennai,Online,Debit Card,21,4.9,1564.03,2026-03
+RET00785,2026-03-23,Beauty,Lipstick,2,1779.15,0.1,Salem,Store,UPI,32,3.4,3202.47,2026-03
+RET00786,2026-05-24,Beauty,Face Wash,2,248.69,0.1,Salem,Store,Debit Card,48,2.7,447.64,2026-05
+RET00787,2026-05-19,Clothing,Kurti,1,2751.3,0.05,Madurai,Store,Debit Card,27,4.2,2613.74,2026-05
+RET00788,2026-04-22,Electronics,Wireless Earbuds,5,6834.12,0.05,Chennai,Store,Credit Card,51,5.0,32462.07,2026-04
+RET00789,2026-08-03,Clothing,T-Shirt,4,2274.75,0.05,Coimbatore,Store,UPI,55,4.5,8644.05,2026-08
+RET00790,2026-09-07,Electronics,Power Bank,1,7518.38,0.1,Trichy,Online,Debit Card,39,3.7,6766.54,2026-09
+RET00791,2026-01-20,Clothing,T-Shirt,2,2656.02,0.0,Chennai,Store,Debit Card,48,4.7,5312.04,2026-01
+RET00792,2026-06-04,Home & Kitchen,Cookware Set,1,4474.39,0.05,Coimbatore,Online,Credit Card,24,3.2,4250.67,2026-06
+RET00793,2026-06-12,Clothing,Jeans,3,2737.76,0.1,Tiruppur,Store,Net Banking,32,3.6,7391.95,2026-06
+RET00794,2026-01-22,Beauty,Sunscreen,5,1308.67,0.05,Coimbatore,Online,UPI,56,4.0,6216.18,2026-01
+RET00795,2026-07-06,Electronics,Wireless Earbuds,3,2952.87,0.05,Tiruppur,Online,UPI,24,3.4,8415.68,2026-07
+RET00796,2026-02-23,Sports,Yoga Mat,3,4944.69,0.15,Trichy,Store,Net Banking,45,3.0,12608.96,2026-02
+RET00797,2026-09-18,Beauty,Lipstick,4,382.58,0.1,Thanjavur,Store,UPI,20,4.1,1377.29,2026-09
+RET00798,2026-07-12,Electronics,Bluetooth Speaker,4,7990.907499999999,0.0,Salem,Online,Net Banking,18,4.5,31963.63,2026-07
+RET00799,2026-04-05,Electronics,Bluetooth Speaker,4,5131.84,0.05,Tiruppur,Online,Credit Card,25,4.2,19500.99,2026-04
+RET00800,2026-01-25,Electronics,Power Bank,1,7990.907499999999,0.0,Madurai,Online,Credit Card,18,4.4,7990.91,2026-01
